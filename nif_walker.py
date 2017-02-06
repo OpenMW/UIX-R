@@ -1,12 +1,9 @@
 from pyffi.formats.nif import NifFormat
 from os import path
-from sys import exit, stdout
+from sys import argv, exit, stdout
 
-UIX_PATH = "../../../Private/UIX/UIX FILES/Data Files/"
+# UIX_PATH = "../../../Private/UIX/UIX FILES/Data Files/"
 # UIX_PATH = "../../../Private/UIX/UIX FILES/Data Files/Meshes/TOE/RedMoonGa01.NIF"
-
-if not path.exists(UIX_PATH):
-    exit("Path `{0}` not found.".format(UIX_PATH))
 
 
 def find_external_assets(data, assets):
@@ -50,20 +47,33 @@ def find_external_assets(data, assets):
             find_external_assets(data.decal_3_texture.source, assets)
 
 
-for stream, data in NifFormat.walkData(UIX_PATH):
-    try:
-        print(stream.name, sep='', end=', ', file=stdout, flush=True)
-        data.read(stream)
-        assets = []
-        find_external_assets(data.roots, assets)
-        assets = set(assets)  # remove duplicates
-        assets_string = "{0}".format(b', '.join(assets).decode(encoding="ISO-8859-1"))
-        print(assets_string, sep=', ', end='\n', file=stdout, flush=True)
-        # import pdb; pdb.set_trace()
-    except ValueError as ex:
-        print(" Error: {0}".format(str(ex.args)), sep='', end='\n', file=stdout, flush=True)
-    except Exception as ex:
-        print(ex)
-        raise
+def walk_nif(nif_path, use_stdout=True):
+    if not path.exists(nif_path):
+        exit("Path `{0}` not found.".format(nif_path))
+
+    all_assets = []
+    for stream, data in NifFormat.walkData(nif_path):
+        try:
+            if use_stdout:
+                print(stream.name, sep='', end=', ', file=stdout, flush=True)
+            data.read(stream)
+            assets = []
+            find_external_assets(data.roots, assets)
+            assets = set(assets)  # remove duplicates
+            assets_string = "{0}".format(b', '.join(assets).decode(encoding="ISO-8859-1"))
+            all_assets.append(assets_string)
+            if use_stdout:
+                print(assets_string, sep=', ', end='\n', file=stdout, flush=True)
+        except ValueError as ex:
+            print(" Error with {0}: {1}".format(stream.name, str(ex.args)), sep='', end='\n', file=stdout, flush=True)
+        except Exception as ex:
+            print(ex)
+            raise
+    return all_assets
 
 
+if __name__ == "__main__":
+    if len(argv) == 2:
+        walk_nif(argv[1])
+    else:
+        exit("No path given.")
