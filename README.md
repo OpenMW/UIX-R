@@ -1,4 +1,4 @@
-# Ultima IX: Redemption for Morrowind and OpenMW, Libre Edition
+# Ultima IX: Redemption for Morrowind, Libre Edition
 
 This is an attempt to make a Free and Open Source release of the assets used to create 
 Ultima IX: Redemption. With these releases, you are free to use the models, meshes and animations
