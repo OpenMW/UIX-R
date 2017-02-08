@@ -16,7 +16,7 @@ release or re-license their work to a Creative Common License of their choice.
 Currently 100% of the assets found in the LE fall under the CC0 license, otherwise known as the 
 "Public Domain" license for jurisdictions that don't honour the concept of "Public Domain".
 
- - CC0 https://creativecommons.org/publicdomain/zero/1.0/
+  - CC0 https://creativecommons.org/publicdomain/zero/1.0/
 
 As more content creators are contacted, they can pick a CC license that bests suites them.
 
@@ -42,4 +42,13 @@ Steven "Chlorthos" McCrary
 Morrowind Mod UIX – landscape, story and music release – history of the mod and the team.:
 http://www.titansofether.com/uix/
 
+# Changelog
 
+## uixr-assets-cc0-1.0 (20170208)
+  - initial release
+  - over 1300 assets released under the CC0 license
+    - 737 DDS
+    - 605 NIF
+    - 13 KF
+    - 11 TGA
+    - 1 TXT
