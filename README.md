@@ -20,9 +20,14 @@ Currently 100% of the assets found in the LE fall under the CC0 license, otherwi
 
 As more content creators are contacted, they can pick a CC license that bests suites them.
 
+### What does CC0 mean?
+
+You may freely download, build upon, enhance and reuse the works for any purposes without 
+restriction under copyright or database law.
+
 ## People you should thank
 
-Alain "Spyder" Brunotte, released over a 1000 assets
+Alain "Spyder" Brunotte, released over a 1300 assets under the CC0 license.
 
 ## People we are looking to make contact with
 
