@@ -17225,8 +17225,8 @@ af4e578628b6dad741f1434a1bec31f5,UIX/UIX FILES/Data Files/Textures/DON_B_N_Redg_
 0739d806d7e2ad5640e0e55b8085dada,UIX/UIX FILES/Data Files/Textures/DON_B_N_Redg_M_Head4b.dds, ,
 c0e9138189eb7a71eda35dec8e9828ed,UIX/UIX FILES/Data Files/Textures/DON_B_N_Redg_M_Head4c.dds, ,
 7aeabdccc10302ed30a49993f84498fd,UIX/UIX FILES/Data Files/Textures/DON_B_N_Redg_M_Head5b.dds, ,
-5d21e4e12e5de2fe88252736d3779b2f,UIX/UIX FILES/Data Files/Textures/door01.dds, ,
-cb68166aa6e4c387b8aea6330d463e32,UIX/UIX FILES/Data Files/Textures/door2.dds, ,
+5d21e4e12e5de2fe88252736d3779b2f,UIX/UIX FILES/Data Files/Textures/door01.dds,by Spyder,CC0
+cb68166aa6e4c387b8aea6330d463e32,UIX/UIX FILES/Data Files/Textures/door2.dds,by Spyder,CC0
 e8187245ad0e70cb993b35e9b0b26910,UIX/UIX FILES/Data Files/Textures/dooriron01.dds,by Spyder,CC0
 717a95db41cf7b25fc73b0b0e94d0945,UIX/UIX FILES/Data Files/Textures/doorwood01.dds,by Spyder,CC0
 57fb9462c7b2058d769bb42017e5179c,UIX/UIX FILES/Data Files/Textures/DR_bark01_ayse.dds, ,
@@ -17751,9 +17751,9 @@ b4830f147d671f8d27df584a82549181,UIX/UIX FILES/Data Files/Textures/Gguarskin hid
 269ca30fe86bbfbc04da69135b6327b6,UIX/UIX FILES/Data Files/Textures/gold01.dds,by Spyder,CC0
 b7752e3a7af4ac93dc36a1325bb0694b,UIX/UIX FILES/Data Files/Textures/gold02.dds,by Spyder,CC0
 3f10bfb454c094a0ebf46c85f9d1a016,UIX/UIX FILES/Data Files/Textures/gold03.dds,by Spyder,CC0
-030f003f31471d40e650f1e937b668ee,UIX/UIX FILES/Data Files/Textures/goldm1.dds, ,
-54581f5bbaadf3d5df596f8b692f0d24,UIX/UIX FILES/Data Files/Textures/goldm2.dds, ,
-043c34b4b5f9bf10746454e18f74b7d0,UIX/UIX FILES/Data Files/Textures/goldM3.dds, ,
+030f003f31471d40e650f1e937b668ee,UIX/UIX FILES/Data Files/Textures/goldm1.dds,by Spyder,CC0
+54581f5bbaadf3d5df596f8b692f0d24,UIX/UIX FILES/Data Files/Textures/goldm2.dds,by Spyder,CC0
+043c34b4b5f9bf10746454e18f74b7d0,UIX/UIX FILES/Data Files/Textures/goldM3.dds,by Spyder,CC0
 d15907466adb97fdf718b6e262ba8f53,UIX/UIX FILES/Data Files/Textures/gore_arm.dds,by Spyder,CC0
 6f9d14bf9ad91aa4e3e108a5e02f9b6d,UIX/UIX FILES/Data Files/Textures/gore_blood.dds,by Spyder,CC0
 2e8d36c4c50b23318000685acbb5e94b,UIX/UIX FILES/Data Files/Textures/gore_flesh.dds,by Spyder,CC0
@@ -18536,7 +18536,7 @@ f855780520eaaba03ea8a1bb7c4ce726,UIX/UIX FILES/Data Files/Textures/PillBase02.dd
 bdad9b740190e7294d8f8694fb7781a4,UIX/UIX FILES/Data Files/Textures/PO_Skeleton_hipbone.dds, ,
 55eb9577739b29ce1aa8b7bfb1ba7477,UIX/UIX FILES/Data Files/Textures/po_skeleton_radiusnm.dds, ,
 4a41b194cbdbae675d15bcb822f7e147,UIX/UIX FILES/Data Files/Textures/Pomegranate.dds,by Spyder,CC0
-95613750073855a5c2292791f0fa08f0,UIX/UIX FILES/Data Files/Textures/Pomegranate2.dds, ,
+95613750073855a5c2292791f0fa08f0,UIX/UIX FILES/Data Files/Textures/Pomegranate2.dds,by Spyder,CC0
 6c0a4629f2d614a8e6c5df5ca9229515,UIX/UIX FILES/Data Files/Textures/pot_marble_01.dds,by Spyder,CC0
 da60fd685b6c61243716190e78dfd334,UIX/UIX FILES/Data Files/Textures/pot_soil_01.dds,by Spyder,CC0
 1ff37d099647d3163cd51e2aae636f65,UIX/UIX FILES/Data Files/Textures/Potion_Blue.dds, ,
