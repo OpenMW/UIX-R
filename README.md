@@ -13,21 +13,27 @@ release or re-license their work to a Creative Common License of their choice.
 
 ## Available CC licenses
 
-Currently 100% of the assets found in the LE fall under the CC0 license, otherwise known as the 
-"Public Domain" license for jurisdictions that don't honour the concept of "Public Domain".
-
-  - CC0 https://creativecommons.org/publicdomain/zero/1.0/
+Currently 100% of the assets found in the LE fall under either the CC0 or CC-BY license.
 
 As more content creators are contacted, they can pick a CC license that bests suites them.
 
-### What does CC0 mean?
-
-You may freely download, build upon, enhance and reuse the works for any purposes without 
+### CC0
+CC0 is also known as the "Public Domain" license for jurisdictions that don't honour the concept 
+of "Public Domain". You may freely download, build upon, enhance and reuse the works for any purposes without 
 restriction under copyright or database law.
+
+  - CC0 https://creativecommons.org/publicdomain/zero/1.0/
+  
+### CC-BY
+CC-BY is a license which only stipulates that you include the original author's name with
+the work, including all derived work.
+
+  - CC-BY https://creativecommons.org/licenses/by/4.0/
 
 ## People you should thank
 
 Alain "Spyder" Brunotte, released over a 1300 assets under the CC0 license.
+Star Boi, 828 assets under the CC-BY license.
 
 ## People we are looking to make contact with
 
@@ -48,6 +54,16 @@ Morrowind Mod UIX – landscape, story and music release – history of the mod 
 http://www.titansofether.com/uix/
 
 # Changelog
+
+## uixr-assets-cc0-1.0 (20170208)
+  - added 828 assets released under the CC-BY license
+    - 408 TGA
+    - 227 DDS
+    - 173 NIF
+    - 13 BMP
+    - 8 IFL
+    - 4 KF
+    - 1 WAV
 
 ## uixr-assets-cc0-1.0 (20170208)
   - initial release

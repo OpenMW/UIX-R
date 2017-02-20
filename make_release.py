@@ -6,7 +6,7 @@ import os
 import sys
 import tarfile
 
-RELEASE_PATH = "uixr-assets-cc0-1.0.tar"
+RELEASE_PATH = "uixr-assets-cc0-1.1.tar"
 ASSET_PATH = "../../../Private"
 
 
@@ -87,8 +87,10 @@ with open("Manifests/UIXR.manifest") as f:
                 if row.get('asset').lower() == relative_asset_path.lower():
                     if row.get('license').lower() == 'cc0':
                         break  # good to go, break
+                    elif row.get('license').lower() == 'cc-by':
+                        break  # good to go, break
                     else:
-                        print("WARNING: Non-CC0 license asset -> {0}".format(relative_asset_path))
+                        print("WARNING: Non-CC license asset -> {0}".format(relative_asset_path))
             tar_ball.add(asset_path, relative_asset_path)
         if not found:
             print("WARNING: sub-asset not found -> {0}".format(nif_asset))
