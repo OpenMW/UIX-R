@@ -1,14 +1,14 @@
 # Ultima IX: Redemption for Morrowind, Libre Edition
 
-This is an attempt to make a Libre Edition (LE) release of the assets used to create 
+This is an attempt to make a Libre Edition (LE) release of the assets used to create
 Ultima IX: Redemption. With this LE release, you are free to use the models, meshes and animations
 to create, remix and build your own simulations, games and worlds.
 
 ## Methodology and Release Guidelines
 
-We are curating the original UIX:R release and validating that none of the assets in the LE contain 
-Bethesda's Intellectual Property (IP) and Copyrights. We then try to make contact with the original 
-creator of the work. We then ask their permission to add their work to the LE release by having them 
+We are curating the original UIX:R release and validating that none of the assets in the LE contain
+Bethesda's Intellectual Property (IP) and Copyrights. We then try to make contact with the original
+creator of the work. We then ask their permission to add their work to the LE release by having them
 release or re-license their work to a Creative Common License of their choice.
 
 ## Available CC licenses
@@ -19,8 +19,8 @@ As more content creators are contacted, they can pick a CC license that bests su
 
 ### CC0
 CC0 is also known as the "Public Domain" license for jurisdictions that don't honour the concept 
-of "Public Domain". You may freely download, build upon, enhance and reuse the works for any purposes without 
-restriction under copyright or database law.
+of "Public Domain". You may freely download, build upon, enhance and reuse the works for any
+purposes without restriction under copyright or database law.
 
   - CC0 https://creativecommons.org/publicdomain/zero/1.0/
   
@@ -32,8 +32,15 @@ the work, including all derived work.
 
 ## People you should thank
 
-Alain "Spyder" Brunotte, released over a 1300 assets under the CC0 license.
-Star Boi, 828 assets under the CC-BY license.
+Alain "Spyder" Brunotte, released over a 1300 assets under the CC0 license. Spyder wrote:
+    As for the license: Sure, go for CC0 "public domain". It felt strange that my name was not
+    even mentioned once when Corv released the UIX:R files, but I actually do not need my name
+    under these assets. I consider them as pieces of my learning process and many are quite messy ;)
+
+Star Boi and his 828 assets under the CC-BY license as he wrote:
+    All persons are free to use these meshes as they see fit, keeping in mind that if used in
+    another released mod, you should give me credit in the readme, but of course that wont be
+    enforced, but it would be nice ^_^ Besides that, do as you will!
 
 ## People we are looking to make contact with
 
@@ -45,7 +52,6 @@ Brad "Operadragon" Venable
 Dustin Naegel  
 Jeremy McGuinn - Knights of Tamriel  
 Matti Paalanen  
-Star Boi  
 Steven "Chlorthos" McCrary  
 
 ## Original UIX:R
@@ -55,7 +61,7 @@ http://www.titansofether.com/uix/
 
 # Changelog
 
-## uixr-assets-cc0-1.0 (20170208)
+## uixr-assets-cc0-1.1 (20170221)
   - added 828 assets released under the CC-BY license
     - 408 TGA
     - 227 DDS
