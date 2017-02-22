@@ -18,10 +18,14 @@ starboi_md5 = None
 with open("Manifests/starboi.manifest", 'r') as content_file:
     starboi_md5 = content_file.read()
 
+vurt_md5 = None
+with open("Manifests/vurt.manifest", 'r') as content_file:
+    vurt_md5 = content_file.read()
+
 
 def validate(md5_list):
     print("\nComparing md5sum of UIX:R to the other files.")
-    beth_counter = starboi_counter = 0
+    beth_counter = starboi_counter = vurt_counter = 0
     for line in md5_list.split('\n'):
         if len(line) > 0:
             md5, rest = line.split(",", 1)
@@ -37,9 +41,16 @@ def validate(md5_list):
             if md5 in starboi_md5:
                 starboi_counter += 1
                 print("{0},{1},Found in StarBoi's work".format(md5, rest))
+            if md5 in vurt_md5:
+                vurt_counter += 1
+                print("{0},{1},Found in Vurt's work".format(md5, rest))
                 
-    print("Out of {0} files, found {1} bethesda files and {2} starboi files.\n".format(
-        len(md5_list.split('\n'))-1, beth_counter, starboi_counter))
+    print("""\
+Out of {0} files, found:
+  {1} bethesda files
+  {2} starboi files
+  {3} vurt files""".format(
+        len(md5_list.split('\n'))-1, beth_counter, starboi_counter, vurt_counter))
 
     
 # uixr files

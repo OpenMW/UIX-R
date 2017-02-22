@@ -54,6 +54,7 @@ Brad "Operadragon" Venable
 Dustin Naegel  
 Jeremy McGuinn - Knights of Tamriel  
 Matti Paalanen  
+Patrik "Vurt" Andersson  
 Steven "Chlorthos" McCrary  
 
 ## Original UIX:R
