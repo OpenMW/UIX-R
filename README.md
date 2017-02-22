@@ -33,11 +33,13 @@ the work, including all derived work.
 ## People you should thank
 
 Alain "Spyder" Brunotte, released over a 1300 assets under the CC0 license. Spyder wrote:
+
     As for the license: Sure, go for CC0 "public domain". It felt strange that my name was not
     even mentioned once when Corv released the UIX:R files, but I actually do not need my name
     under these assets. I consider them as pieces of my learning process and many are quite messy ;)
 
 Star Boi and his 828 assets under the CC-BY license as he wrote:
+
     All persons are free to use these meshes as they see fit, keeping in mind that if used in
     another released mod, you should give me credit in the readme, but of course that wont be
     enforced, but it would be nice ^_^ Besides that, do as you will!
