@@ -65,7 +65,7 @@ http://www.titansofether.com/uix/
 # Changelog
 
 ## uixr-assets-le-1.1 (20170221)
-  - added 828 assets released under the CC-BY license
+  - added over 800 assets released under the CC-BY license
     - 408 TGA
     - 227 DDS
     - 173 NIF
