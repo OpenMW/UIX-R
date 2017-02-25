@@ -51,8 +51,10 @@ talk further!
 
 barabus  
 Brad "Operadragon" Venable  
+Cait / Cait Sith
 Dustin Naegel  
-Jeremy McGuinn - Knights of Tamriel  
+Jeremy McGuinn - Knights of Tamriel
+Lady Eternity and Proudfoot
 Matti Paalanen  
 Patrik "Vurt" Andersson  
 Steven "Chlorthos" McCrary  
