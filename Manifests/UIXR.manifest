@@ -212,7 +212,7 @@ c932882e74c3db691310ed2e1108b320,UIX/MUSIC/Matti Paalanen/Ultima_remix_-_Ultima_
 73884a76ea7fee7f4bd1a4f2532440a7,UIX/MUSIC/Matti Paalanen/Ultima_remix_-_Wall_of_lights.mp3,by Matti Paalanen,
 fe78d79bd55808ace650ef32b701bbf0,UIX/MUSIC/Matti Paalanen/Ultima_remix_-_Wilderness.mp3,by Matti Paalanen,
 dbabe6bd44042f3346bc480fb7c7c7d4,UIX/MUSIC/Matti Paalanen/Ultima_remix_-_Wisps.mp3,by Matti Paalanen,
-5544638d1fc1ef672d18220a4d05b377,UIX/MUSIC/Operadragon/stones.mp3,by Brad ‘Operadragon’ Venable,
+5544638d1fc1ef672d18220a4d05b377,UIX/MUSIC/Operadragon/stones.mp3,"by Brad ""Operadragon"" Venable",
 98f668a45d929be7c609f6390841411e,UIX/MW TOOLS/FPS OPTIMIZER 1.96/Morrowind FPS Optimizer.v1.96.zip, ,
 804fab211c16b53146348a2e3f2e2c15,UIX/MW TOOLS/MGE/mge3.8.0b.7z, ,
 03664aee76f2a3b3fd39681521fa35c9,UIX/PATCH/Bloodmoon_v1.6.1820.zip, ,
@@ -2160,28 +2160,28 @@ bce060843a6b51f627f0c59c5605d3ca,UIX/UIX FILES/Data Files/Meshes/Kyn-ThiefCastle
 07baa083f0e9ff7b5afdd37b6e2059ca,UIX/UIX FILES/Data Files/Meshes/l/_det_lavafall_01.nif, ,
 8e297534f748e4d0e147840310bf0380,UIX/UIX FILES/Data Files/Meshes/l/_det_lavafall_02.nif, ,
 c05f9707a03182746b4d6a44b3c834a0,UIX/UIX FILES/Data Files/Meshes/l/_det_lavafall_03.nif, ,
-ae7351e6ccb5759012dbe8f9156d77c4,UIX/UIX FILES/Data Files/Meshes/LadyE/a_bag01.NIF,by Samantha “Lady Eternity” Thorpe,
-934d8f8699fbb5e4e15d6b93fded3544,UIX/UIX FILES/Data Files/Meshes/LadyE/jewlrs_sgnA.NIF,by Samantha “Lady Eternity” Thorpe,
-ef504a4fd6b9e024ae06058468f9e06e,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try.tga,by Samantha “Lady Eternity” Thorpe,
-c3a187468b1f5cc0b4f01dc21c197b99,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try1.tga,by Samantha “Lady Eternity” Thorpe,
-7a70436864c582d1e3241f4661c1a17b,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try2.tga,by Samantha “Lady Eternity” Thorpe,
-0a7c279991bae3bd7d9dd5e1bd56f43b,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try3.tga,by Samantha “Lady Eternity” Thorpe,
-1bd3e60190c3360671c0a74638489773,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try4.tga,by Samantha “Lady Eternity” Thorpe,
-20cf80ba0014fd2df94f6c6809423f0c,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_01.NIF,by Samantha “Lady Eternity” Thorpe,
-415e2506306e74457e92e836191c73a2,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_02.NIF,by Samantha “Lady Eternity” Thorpe,
-797f874a8b4160d4342ee1d1bd849266,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_03.NIF,by Samantha “Lady Eternity” Thorpe,
-3be32161b202df344a44ed22dc981b7e,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_04.NIF,by Samantha “Lady Eternity” Thorpe,
-4a22023ce4ec550b6a2a30642140f4af,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_05.NIF,by Samantha “Lady Eternity” Thorpe,
-47c106307f6d02308b9b0cb6e6448471,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/a_rack.NIF,by Samantha “Lady Eternity” Thorpe,
-cdbbc89522ba9c1d79e4cc61c040c9e5,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/a_torturechair.NIF,by Samantha “Lady Eternity” Thorpe,
-46e07b92d419c5a8c11e49aa127e3345,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/crows_cage.NIF,by Samantha “Lady Eternity” Thorpe,
-1e675d8753591e38d308aaa96519db06,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/crows_cageB.NIF,by Samantha “Lady Eternity” Thorpe,
-74308478446a709a82865dc16d065f67,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/ironmadn_lftdr.NIF,by Samantha “Lady Eternity” Thorpe,
-c344564077d82addf90c003d974b7c37,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/ironmadn_main.NIF,by Samantha “Lady Eternity” Thorpe,
-0279d7fac3ede219e6d50e0f47f1ee54,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/ironmadn_rghtdr.NIF,by Samantha “Lady Eternity” Thorpe,
-11d9a14cc6e2e7354616b4f3da26b87d,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/metalcage_1.NIF,by Samantha “Lady Eternity” Thorpe,
-33fb0c987232e9b51f61e8b5f2b147ca,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/metalcage_1a.NIF,by Samantha “Lady Eternity” Thorpe,
-a5cd002348d8f6fea34eeb9de201fa18,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/ProgramFlow.txt,by Samantha “Lady Eternity” Thorpe,
+ae7351e6ccb5759012dbe8f9156d77c4,UIX/UIX FILES/Data Files/Meshes/LadyE/a_bag01.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+934d8f8699fbb5e4e15d6b93fded3544,UIX/UIX FILES/Data Files/Meshes/LadyE/jewlrs_sgnA.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+ef504a4fd6b9e024ae06058468f9e06e,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try.tga,"by Samantha ""Lady Eternity"" Thorpe",
+c3a187468b1f5cc0b4f01dc21c197b99,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try1.tga,"by Samantha ""Lady Eternity"" Thorpe",
+7a70436864c582d1e3241f4661c1a17b,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try2.tga,"by Samantha ""Lady Eternity"" Thorpe",
+0a7c279991bae3bd7d9dd5e1bd56f43b,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try3.tga,"by Samantha ""Lady Eternity"" Thorpe",
+1bd3e60190c3360671c0a74638489773,UIX/UIX FILES/Data Files/Meshes/LadyE/spider_try4.tga,"by Samantha ""Lady Eternity"" Thorpe",
+20cf80ba0014fd2df94f6c6809423f0c,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_01.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+415e2506306e74457e92e836191c73a2,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_02.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+797f874a8b4160d4342ee1d1bd849266,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_03.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+3be32161b202df344a44ed22dc981b7e,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_04.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+4a22023ce4ec550b6a2a30642140f4af,UIX/UIX FILES/Data Files/Meshes/LadyE/spiderweb_05.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+47c106307f6d02308b9b0cb6e6448471,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/a_rack.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+cdbbc89522ba9c1d79e4cc61c040c9e5,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/a_torturechair.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+46e07b92d419c5a8c11e49aa127e3345,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/crows_cage.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+1e675d8753591e38d308aaa96519db06,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/crows_cageB.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+74308478446a709a82865dc16d065f67,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/ironmadn_lftdr.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+c344564077d82addf90c003d974b7c37,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/ironmadn_main.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+0279d7fac3ede219e6d50e0f47f1ee54,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/ironmadn_rghtdr.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+11d9a14cc6e2e7354616b4f3da26b87d,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/metalcage_1.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+33fb0c987232e9b51f61e8b5f2b147ca,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/metalcage_1a.NIF,"by Samantha ""Lady Eternity"" Thorpe",
+a5cd002348d8f6fea34eeb9de201fa18,UIX/UIX FILES/Data Files/Meshes/LadyE/Td/ProgramFlow.txt,"by Samantha ""Lady Eternity"" Thorpe",
 d147768b8be0be2cb05809d6076678b7,UIX/UIX FILES/Data Files/Meshes/Louis/L_FHair01LBang_DEBlk.nif, ,
 bf33084a391179fe3ec513c107dbe1a6,UIX/UIX FILES/Data Files/Meshes/Louis/L_FHair01LBang_DEOra.nif, ,
 7a8ab46ab7d7cf817b814b9c630d257e,UIX/UIX FILES/Data Files/Meshes/Louis/L_FHair01LBang_DESil.NIF, ,
@@ -3104,60 +3104,60 @@ afbd603d98f2af1bfb7b21255e175886,UIX/UIX FILES/Data Files/Meshes/TOE/_c_grass_bu
 7efdf7d8fb9a872ee09a2313cc7f62f2,UIX/UIX FILES/Data Files/Meshes/TOE/_c_grass_g1_few_yellow.NIF, ,
 0afe0df4811d875a54f8e22eb71c429a,UIX/UIX FILES/Data Files/Meshes/TOE/_c_grass_g1_few.NIF, ,
 7d8aa5af6dae67c9b9b15fb3ee443413,UIX/UIX FILES/Data Files/Meshes/TOE/_c_grass_g1.NIF, ,
-d0f28e0d1405ce6a0a7e4fccdfb40b0c,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/deadgrass.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-f3c434567fd16ac04934451bb798b524,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshBush.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ea29887b72ddc09122f91f1b241f23a9,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshGrs.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ddadf22cba515a564975e6b2a5d9bcc7,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshVeg_Bushes.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-6f50d27982826e521a81cee33b98de4b,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshVeg_DeadB.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-09fccce41cbcd7fa157217c3fc8afd91,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshVeg_Grass.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-d6a25d017bb4f9d0a57932d5448f4e4b,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshVeg_GrassG.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b504403a06e5c63d0b4d9637a2359b6f,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_BCBush.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b9606640e1323e2e502895c924ec57f7,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_BCPlnts.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-867246e0c136f6945666c1dd5e3194ed,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_BrGrs.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-325b5c006cb76a6fb9f3ea7c10ef3a73,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_BrwnBsh.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-f26ec0e866c532fab09e35b9918e7b0a,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_DrkGr.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b53b30797b510a3ed149712c0a12ec2e,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_DrkGr2.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-15968a209e007e677fab78de9f89ef48,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_DrkGrs3.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-29342f96ebab0c70385d2ac8e644ed59,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_Flow2.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-d79212b16759e27ffa28a6221760f601,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_Flowery.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-eb13be6450c95e226c717d3c0b32c96d,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FlowR.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-987b5ac81e829994c6e5ef35f096ffe3,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FrnBrn.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-29181352fe2d28587828a88b39a42f4a,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FrnDrk.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b5181146c2c3e213cdcdf34dfba96b3c,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FrnGr.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-eae1d729c3bb3cfaccbd2d3d29717c03,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FrnPl.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ba0005b82f14e6d03b35fddee48fbe17,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_GrBrGrs.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-d5525585a01cd920bbb93f68fd530bde,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_GrGrs.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c2ed1fbe62167cb717314b38a0cfad0e,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_GrGrs2.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-db61397c6afa2245be488e05a42191ba,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_GrGrs3.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-de8a000dd880f21999e01cf229fd45d9,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_MixGrs.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-f5f07157c562ab7aa32f6677af28d2bc,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/vurt_reeds.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b95b0f23ca9bf56e632579dece0da601,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_BrownBushes.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-47319f254d1d81b8d9dda204a5d7fb25,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_BrownGrass.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-59c241033051b95e2393840938a45de4,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_BrownGrBsh.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-58befbe4cd718e41d6b2069fb3dc14d9,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_Bushes.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-4b4a4263d58a2cca3e4f94f44d1094ee,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_Flowersplnts.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-fa4fcd89c3096dafbf4401074024c7da,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_IcyBushes.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8ca81fe2b3bcf191565ecfea4607b91c,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_SGreenBrnGrass.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c6f787adab56af5507f93cdeff77f16e,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_SGreenGrass.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ea113478299950c79631bc73a4fcfe72,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_SSnowyGrass.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-0629aa4969d77e2e7555d809294b2d37,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_SSnowyPlants.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-76230110ebca9fc85721c8d85696b7f3,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/Vurt_AfTree01.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-42ac1df98cabb003a7b2fd612521e4e1,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_baobabsplit.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-99a983d5a4f1641d2b4ebeee44425322,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_bentpalm01.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-47231e9382b5cefed33c7facb73fb195,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_hugetree.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-5df35e1bb501f1ccb9c7b54675a46a52,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_palm01.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-7831254893caafe15d3089bc11f5b7b5,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_palm02.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-1a6f6abe5af9eba5dd58c9dcc41642d9,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_palm03.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-1bd72dedd1fb1cfdb407879f47cb94ce,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_palm04.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-3012660ed1d52a01793cdcb94d7f192a,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_01.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8a29cb07d573f392f060413186b91fe2,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_02.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-d9bc0ae6293748181f5d1cc333892620,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_03.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-3a52856b1d28205ac2749d8c93e4e132,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_04.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-fd277e64107a81c11dfe5430a381f27e,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_05.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-93114ccc21753efba503080c2dc1dacf,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_06.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-75f73faf0d2139bbe7f840aaa923d324,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_07.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-f1d52bd0fca17aabb8fe6f27bd8b4ff0,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_08.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-6678bce8ff8382f8948102a00b686a8c,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_11.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
+d0f28e0d1405ce6a0a7e4fccdfb40b0c,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/deadgrass.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+f3c434567fd16ac04934451bb798b524,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshBush.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ea29887b72ddc09122f91f1b241f23a9,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshGrs.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ddadf22cba515a564975e6b2a5d9bcc7,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshVeg_Bushes.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+6f50d27982826e521a81cee33b98de4b,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshVeg_DeadB.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+09fccce41cbcd7fa157217c3fc8afd91,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshVeg_Grass.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+d6a25d017bb4f9d0a57932d5448f4e4b,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_AshVeg_GrassG.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b504403a06e5c63d0b4d9637a2359b6f,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_BCBush.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b9606640e1323e2e502895c924ec57f7,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_BCPlnts.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+867246e0c136f6945666c1dd5e3194ed,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_BrGrs.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+325b5c006cb76a6fb9f3ea7c10ef3a73,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_BrwnBsh.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+f26ec0e866c532fab09e35b9918e7b0a,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_DrkGr.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b53b30797b510a3ed149712c0a12ec2e,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_DrkGr2.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+15968a209e007e677fab78de9f89ef48,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_DrkGrs3.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+29342f96ebab0c70385d2ac8e644ed59,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_Flow2.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+d79212b16759e27ffa28a6221760f601,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_Flowery.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+eb13be6450c95e226c717d3c0b32c96d,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FlowR.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+987b5ac81e829994c6e5ef35f096ffe3,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FrnBrn.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+29181352fe2d28587828a88b39a42f4a,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FrnDrk.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b5181146c2c3e213cdcdf34dfba96b3c,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FrnGr.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+eae1d729c3bb3cfaccbd2d3d29717c03,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_FrnPl.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ba0005b82f14e6d03b35fddee48fbe17,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_GrBrGrs.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+d5525585a01cd920bbb93f68fd530bde,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_GrGrs.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c2ed1fbe62167cb717314b38a0cfad0e,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_GrGrs2.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+db61397c6afa2245be488e05a42191ba,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_GrGrs3.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+de8a000dd880f21999e01cf229fd45d9,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_MixGrs.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+f5f07157c562ab7aa32f6677af28d2bc,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/vurt_reeds.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b95b0f23ca9bf56e632579dece0da601,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_BrownBushes.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+47319f254d1d81b8d9dda204a5d7fb25,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_BrownGrass.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+59c241033051b95e2393840938a45de4,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_BrownGrBsh.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+58befbe4cd718e41d6b2069fb3dc14d9,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_Bushes.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+4b4a4263d58a2cca3e4f94f44d1094ee,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_Flowersplnts.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+fa4fcd89c3096dafbf4401074024c7da,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_S_IcyBushes.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8ca81fe2b3bcf191565ecfea4607b91c,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_SGreenBrnGrass.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c6f787adab56af5507f93cdeff77f16e,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_SGreenGrass.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ea113478299950c79631bc73a4fcfe72,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_SSnowyGrass.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+0629aa4969d77e2e7555d809294b2d37,UIX/UIX FILES/Data Files/Meshes/TOE/_VG/Vurt_SSnowyPlants.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+76230110ebca9fc85721c8d85696b7f3,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/Vurt_AfTree01.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+42ac1df98cabb003a7b2fd612521e4e1,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_baobabsplit.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+99a983d5a4f1641d2b4ebeee44425322,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_bentpalm01.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+47231e9382b5cefed33c7facb73fb195,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_hugetree.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+5df35e1bb501f1ccb9c7b54675a46a52,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_palm01.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+7831254893caafe15d3089bc11f5b7b5,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_palm02.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+1a6f6abe5af9eba5dd58c9dcc41642d9,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_palm03.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+1bd72dedd1fb1cfdb407879f47cb94ce,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_palm04.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+3012660ed1d52a01793cdcb94d7f192a,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_01.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8a29cb07d573f392f060413186b91fe2,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_02.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+d9bc0ae6293748181f5d1cc333892620,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_03.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+3a52856b1d28205ac2749d8c93e4e132,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_04.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+fd277e64107a81c11dfe5430a381f27e,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_05.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+93114ccc21753efba503080c2dc1dacf,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_06.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+75f73faf0d2139bbe7f840aaa923d324,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_07.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+f1d52bd0fca17aabb8fe6f27bd8b4ff0,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_08.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+6678bce8ff8382f8948102a00b686a8c,UIX/UIX FILES/Data Files/Meshes/TOE/_VT/vurt_tree_gl_11.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
 aac51742f4265cea8f54fad1bdce14d8,UIX/UIX FILES/Data Files/Meshes/TOE/a/shrine.nif, ,
 16f75c3f87b7420b6aad984d697f2779,UIX/UIX FILES/Data Files/Meshes/TOE/a/TOE_NBanvil00.nif, ,
 19e93600270ac7feffb14c541c3b04bb,UIX/UIX FILES/Data Files/Meshes/TOE/a/TOE_NBcauldron01.NIF, ,
@@ -5615,17 +5615,17 @@ e6e2e8519511dde90b256135d5eb6ef6,UIX/UIX FILES/Data Files/Meshes/TOEWeapons/thr5
 5dcc3b0781e31f59ae92b9fefa851310,UIX/UIX FILES/Data Files/Meshes/TOEWeapons/xbo3.nif, ,
 67f323eb040c9a9ad0dd4dd9316c674f,UIX/UIX FILES/Data Files/Meshes/TOEWeapons/xbo4.nif, ,
 2bc4a345f2fc20bd2ba6b7bae1eaf6fd,UIX/UIX FILES/Data Files/Meshes/TOEWeapons/xbo5.nif, ,
-7b2b1646a4bc38b361656c128d98e4f7,UIX/UIX FILES/Data Files/Meshes/v_2Dcoral.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8187b5ec469b44303d8623de17c2458f,UIX/UIX FILES/Data Files/Meshes/v_acropora_green.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-cac643649f6d70148f92c2e83e5697e2,UIX/UIX FILES/Data Files/Meshes/v_acropora_ten.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-522b5b8e8a860846d3299a546d8045d7,UIX/UIX FILES/Data Files/Meshes/v_acropora_white.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-9dcfd4aee976c89708a0043c3df7517a,UIX/UIX FILES/Data Files/Meshes/v_braincoralpurp.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c5ec23e3a8e3c0e27765031592f36400,UIX/UIX FILES/Data Files/Meshes/v_coral_tallthin.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-e094a9685a44e18ae5d280c346ce3d74,UIX/UIX FILES/Data Files/Meshes/v_GorgCoral.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c55f2a79bbc85b07f3cf85b37c7ed4fc,UIX/UIX FILES/Data Files/Meshes/v_seagrass.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8a446efe51321df39f74114e7d55be6b,UIX/UIX FILES/Data Files/Meshes/v_seagrass2.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-dca1f088a7a15004f5a2da58ca556515,UIX/UIX FILES/Data Files/Meshes/Vurt/Vurt_Ghosts.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
-cdbdf6109229b195e29a5c1b18827b0d,UIX/UIX FILES/Data Files/Meshes/Vurt/Vurt_GhostsnGiant.nif,by Patrik ‘Vurt’ Andersson,cc-by-nc
+7b2b1646a4bc38b361656c128d98e4f7,UIX/UIX FILES/Data Files/Meshes/v_2Dcoral.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8187b5ec469b44303d8623de17c2458f,UIX/UIX FILES/Data Files/Meshes/v_acropora_green.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+cac643649f6d70148f92c2e83e5697e2,UIX/UIX FILES/Data Files/Meshes/v_acropora_ten.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+522b5b8e8a860846d3299a546d8045d7,UIX/UIX FILES/Data Files/Meshes/v_acropora_white.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+9dcfd4aee976c89708a0043c3df7517a,UIX/UIX FILES/Data Files/Meshes/v_braincoralpurp.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c5ec23e3a8e3c0e27765031592f36400,UIX/UIX FILES/Data Files/Meshes/v_coral_tallthin.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+e094a9685a44e18ae5d280c346ce3d74,UIX/UIX FILES/Data Files/Meshes/v_GorgCoral.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c55f2a79bbc85b07f3cf85b37c7ed4fc,UIX/UIX FILES/Data Files/Meshes/v_seagrass.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8a446efe51321df39f74114e7d55be6b,UIX/UIX FILES/Data Files/Meshes/v_seagrass2.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+dca1f088a7a15004f5a2da58ca556515,UIX/UIX FILES/Data Files/Meshes/Vurt/Vurt_Ghosts.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
+cdbdf6109229b195e29a5c1b18827b0d,UIX/UIX FILES/Data Files/Meshes/Vurt/Vurt_GhostsnGiant.nif,"by Patrik ""Vurt"" Andersson",cc-by-nc
 1cd03d69e1486dbc2b10730ff2fa4f19,UIX/UIX FILES/Data Files/Meshes/XMageTowerAni.kf,by Spyder,CC0
 0f6996ce8ccb521487c6801a5bb03a43,UIX/UIX FILES/Data Files/Meshes/XMageTowerAni.nif,by Spyder,CC0
 63f8f62cfcd4b2dc763b8ee4c711d81b,UIX/UIX FILES/Data Files/Meshes/XNS_MM_PENTAGRAM.kf,by Star Boi,cc-by
@@ -19354,8 +19354,8 @@ c278f3bf52705bfc9676ccfcfa29b3ac,UIX/UIX FILES/Data Files/Textures/TOE_mushroom0
 4f5dfbda456adcc8d08b4b0ff061dd76,UIX/UIX FILES/Data Files/Textures/TOE_oldpaper.tga, ,
 6666fe4798f6dde1f1f11c81665f1c24,UIX/UIX FILES/Data Files/Textures/TOE_palmenblattgruen.tga, ,
 61660518daf4ea88a2d2e9bbcac39ef4,UIX/UIX FILES/Data Files/Textures/TOE_palmenblattgruen2.tga, ,
-ebfd18f9c1f53fa504b57d7170eccc55,UIX/UIX FILES/Data Files/Textures/TOE_palmenstamm.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-293c48d2dcbf2cff61c4fccfead8dba3,UIX/UIX FILES/Data Files/Textures/TOE_palmenstamm.tga,by Patrik ‘Vurt’ Andersson,cc-by-nc
+ebfd18f9c1f53fa504b57d7170eccc55,UIX/UIX FILES/Data Files/Textures/TOE_palmenstamm.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+293c48d2dcbf2cff61c4fccfead8dba3,UIX/UIX FILES/Data Files/Textures/TOE_palmenstamm.tga,"by Patrik ""Vurt"" Andersson",cc-by-nc
 1432b66d8eb9ef0630c226ed6f51d134,UIX/UIX FILES/Data Files/Textures/TOE_palmleaf02.tga, ,
 83e8d210eb4d1779268f097f3538be0d,UIX/UIX FILES/Data Files/Textures/TOE_pilztex.tga, ,
 b1fa45dceeeb14e63627d253e62196fb,UIX/UIX FILES/Data Files/Textures/TOE_pine01.tga, ,
@@ -19854,45 +19854,45 @@ d9f06dc7a38227e6916ae997c7495d00,UIX/UIX FILES/Data Files/Textures/Tx_wood_wethe
 260eb7c361143504f1caa9af7b903a6b,UIX/UIX FILES/Data Files/Textures/Tx_wood_wornfloor_01.dds, ,
 a51360801dd5dd863d18f211a9cc3eae,UIX/UIX FILES/Data Files/Textures/Txt.GTW Staff.bmp,by Star Boi,cc-by
 c6e1c0e59c1d07ef1e51c31156ad6f01,UIX/UIX FILES/Data Files/Textures/UltimaBat.bmp, ,
-7424780cecffbe38d005d2d439ee50df,UIX/UIX FILES/Data Files/Textures/v_ACcoral_alpha_blue.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-5422e5a9f1c3edd7e1e5c768ccd98f49,UIX/UIX FILES/Data Files/Textures/v_ACcoral_alpha_white.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-94c6f097481dd2ec859658955bae1d21,UIX/UIX FILES/Data Files/Textures/v_ACcoral_alpha.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c2fbef7bfaebf3caabc191106a9de256,UIX/UIX FILES/Data Files/Textures/V_Acropora3.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-9a3ecf59ba8d3426b56b9bb040964a74,UIX/UIX FILES/Data Files/Textures/V_Acropora5.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-d36723642e2345b6508cb480c5a97169,UIX/UIX FILES/Data Files/Textures/v_baobark.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-dbf374a9ebdbcf4f8de168699303a2d7,UIX/UIX FILES/Data Files/Textures/v_bcbark.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-5f685547856d2fd2f56c40e0da617e6a,UIX/UIX FILES/Data Files/Textures/v_bcbranches.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-e39ad7be3b4a8f45ada7483e69856483,UIX/UIX FILES/Data Files/Textures/v_bluecoral.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-01c24edaa6edca7ccf7261b19d874405,UIX/UIX FILES/Data Files/Textures/v_braincoral.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-3040be51d782765bf884337eb16b6a82,UIX/UIX FILES/Data Files/Textures/v_braincoral2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b318bbd155d98655727eb8d511b26722,UIX/UIX FILES/Data Files/Textures/v_brainstarcoral.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-eae8e12a42253347ec44c606aefb0f90,UIX/UIX FILES/Data Files/Textures/v_bubblecoral.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-f101f5a3d6c2ab0c7bb185ae678e751f,UIX/UIX FILES/Data Files/Textures/v_bubblecoral2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-d4fb169c86ba5f415d3638f90a08afc3,UIX/UIX FILES/Data Files/Textures/v_bubbles.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-48651ff6bf23f9d4fb0907592c92e163,UIX/UIX FILES/Data Files/Textures/V_cgrass1.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-74b94bee6f8f0468290983f4c8e3f271,UIX/UIX FILES/Data Files/Textures/v_coral2D.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-24b1012e936add2cf539026e1a08cef9,UIX/UIX FILES/Data Files/Textures/v_coralfungi1.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-f447ef5ec8ace79e6c88223aa65c1636,UIX/UIX FILES/Data Files/Textures/V_coralfungi2_g.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-4b1305e4aed83edb2cde83314da46515,UIX/UIX FILES/Data Files/Textures/V_coralfungi2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-a8f58556a6c01a71a8b0e5a4336b5b73,UIX/UIX FILES/Data Files/Textures/v_coralfungi3.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-fa5373a6401c4be5dc498f01d7607f72,UIX/UIX FILES/Data Files/Textures/v_coralfungus.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-29af9fff2ba777c3dfec01b139c52c43,UIX/UIX FILES/Data Files/Textures/v_crinoid_y.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c74a5ee3c649d49065f3e559020784c4,UIX/UIX FILES/Data Files/Textures/v_GorgCoral.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-a4054ffb55d26f70dbc1b798085130ac,UIX/UIX FILES/Data Files/Textures/v_GorgCoral2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-2148b9c7b4703a4accbc780394009139,UIX/UIX FILES/Data Files/Textures/v_greenyelcoral.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-df76cbd2107f6f7868b44bc002533449,UIX/UIX FILES/Data Files/Textures/v_innertexture.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-341321d9d1a6b6d3cfc7ee6711bf2c3b,UIX/UIX FILES/Data Files/Textures/v_kelpfrond_r.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-72ef789dd8ca6dd61fee9fe6eb825604,UIX/UIX FILES/Data Files/Textures/v_kelpfrond_y.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8b6c8ac4ad0670e1b5b2d9e1351dea44,UIX/UIX FILES/Data Files/Textures/v_kelpfrond.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-fe6fdfae190c40249a16f51e89a56feb,UIX/UIX FILES/Data Files/Textures/v_kelpstem.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-a7065c6c9938a0a8b8a1f766f554db0d,UIX/UIX FILES/Data Files/Textures/v_knothole.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8493661a485bc34bf0270ecf11accbb1,UIX/UIX FILES/Data Files/Textures/v_orangelayer.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8050bf334ccdd8dadef6aba4db173297,UIX/UIX FILES/Data Files/Textures/v_purple3.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b61551fa81edf99865071921600ad876,UIX/UIX FILES/Data Files/Textures/v_purplecoral2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-28641e4caee8006dc8b06bdc51842ced,UIX/UIX FILES/Data Files/Textures/v_redseaplant.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-06aa21ba3fc16cbd0a515ac00df40801,UIX/UIX FILES/Data Files/Textures/V_reeds.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-597efecf8cf374b9b7ab763d8de93af9,UIX/UIX FILES/Data Files/Textures/v_spongetexture.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-27156f707b7165497bca722dc2d3fc5c,UIX/UIX FILES/Data Files/Textures/v_whitecoral.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
+7424780cecffbe38d005d2d439ee50df,UIX/UIX FILES/Data Files/Textures/v_ACcoral_alpha_blue.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+5422e5a9f1c3edd7e1e5c768ccd98f49,UIX/UIX FILES/Data Files/Textures/v_ACcoral_alpha_white.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+94c6f097481dd2ec859658955bae1d21,UIX/UIX FILES/Data Files/Textures/v_ACcoral_alpha.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c2fbef7bfaebf3caabc191106a9de256,UIX/UIX FILES/Data Files/Textures/V_Acropora3.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+9a3ecf59ba8d3426b56b9bb040964a74,UIX/UIX FILES/Data Files/Textures/V_Acropora5.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+d36723642e2345b6508cb480c5a97169,UIX/UIX FILES/Data Files/Textures/v_baobark.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+dbf374a9ebdbcf4f8de168699303a2d7,UIX/UIX FILES/Data Files/Textures/v_bcbark.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+5f685547856d2fd2f56c40e0da617e6a,UIX/UIX FILES/Data Files/Textures/v_bcbranches.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+e39ad7be3b4a8f45ada7483e69856483,UIX/UIX FILES/Data Files/Textures/v_bluecoral.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+01c24edaa6edca7ccf7261b19d874405,UIX/UIX FILES/Data Files/Textures/v_braincoral.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+3040be51d782765bf884337eb16b6a82,UIX/UIX FILES/Data Files/Textures/v_braincoral2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b318bbd155d98655727eb8d511b26722,UIX/UIX FILES/Data Files/Textures/v_brainstarcoral.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+eae8e12a42253347ec44c606aefb0f90,UIX/UIX FILES/Data Files/Textures/v_bubblecoral.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+f101f5a3d6c2ab0c7bb185ae678e751f,UIX/UIX FILES/Data Files/Textures/v_bubblecoral2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+d4fb169c86ba5f415d3638f90a08afc3,UIX/UIX FILES/Data Files/Textures/v_bubbles.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+48651ff6bf23f9d4fb0907592c92e163,UIX/UIX FILES/Data Files/Textures/V_cgrass1.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+74b94bee6f8f0468290983f4c8e3f271,UIX/UIX FILES/Data Files/Textures/v_coral2D.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+24b1012e936add2cf539026e1a08cef9,UIX/UIX FILES/Data Files/Textures/v_coralfungi1.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+f447ef5ec8ace79e6c88223aa65c1636,UIX/UIX FILES/Data Files/Textures/V_coralfungi2_g.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+4b1305e4aed83edb2cde83314da46515,UIX/UIX FILES/Data Files/Textures/V_coralfungi2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+a8f58556a6c01a71a8b0e5a4336b5b73,UIX/UIX FILES/Data Files/Textures/v_coralfungi3.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+fa5373a6401c4be5dc498f01d7607f72,UIX/UIX FILES/Data Files/Textures/v_coralfungus.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+29af9fff2ba777c3dfec01b139c52c43,UIX/UIX FILES/Data Files/Textures/v_crinoid_y.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c74a5ee3c649d49065f3e559020784c4,UIX/UIX FILES/Data Files/Textures/v_GorgCoral.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+a4054ffb55d26f70dbc1b798085130ac,UIX/UIX FILES/Data Files/Textures/v_GorgCoral2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+2148b9c7b4703a4accbc780394009139,UIX/UIX FILES/Data Files/Textures/v_greenyelcoral.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+df76cbd2107f6f7868b44bc002533449,UIX/UIX FILES/Data Files/Textures/v_innertexture.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+341321d9d1a6b6d3cfc7ee6711bf2c3b,UIX/UIX FILES/Data Files/Textures/v_kelpfrond_r.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+72ef789dd8ca6dd61fee9fe6eb825604,UIX/UIX FILES/Data Files/Textures/v_kelpfrond_y.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8b6c8ac4ad0670e1b5b2d9e1351dea44,UIX/UIX FILES/Data Files/Textures/v_kelpfrond.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+fe6fdfae190c40249a16f51e89a56feb,UIX/UIX FILES/Data Files/Textures/v_kelpstem.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+a7065c6c9938a0a8b8a1f766f554db0d,UIX/UIX FILES/Data Files/Textures/v_knothole.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8493661a485bc34bf0270ecf11accbb1,UIX/UIX FILES/Data Files/Textures/v_orangelayer.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8050bf334ccdd8dadef6aba4db173297,UIX/UIX FILES/Data Files/Textures/v_purple3.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b61551fa81edf99865071921600ad876,UIX/UIX FILES/Data Files/Textures/v_purplecoral2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+28641e4caee8006dc8b06bdc51842ced,UIX/UIX FILES/Data Files/Textures/v_redseaplant.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+06aa21ba3fc16cbd0a515ac00df40801,UIX/UIX FILES/Data Files/Textures/V_reeds.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+597efecf8cf374b9b7ab763d8de93af9,UIX/UIX FILES/Data Files/Textures/v_spongetexture.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+27156f707b7165497bca722dc2d3fc5c,UIX/UIX FILES/Data Files/Textures/v_whitecoral.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
 0af549ca887913280d4981d1e29a22c2,UIX/UIX FILES/Data Files/Textures/vein_iron_01.dds, ,
 252831c1fe1797985e9c855ea38098b2,UIX/UIX FILES/Data Files/Textures/vein_iron_02.dds, ,
 3be907b436a7d2ff576efad80672a7b6,UIX/UIX FILES/Data Files/Textures/vein_iron_03.dds, ,
@@ -19936,73 +19936,73 @@ c6c635c3fa73d9831452e88012770cc1,UIX/UIX FILES/Data Files/Textures/vein_shadow_r
 a0ad3b37ac57d0e8da6dc77d3f6fd1c2,UIX/UIX FILES/Data Files/Textures/vfx_flare09.tga, ,
 fc4d5f8f4c197da2bb8b0f1603b60a82,UIX/UIX FILES/Data Files/Textures/vfx_frostcloud.tga,by Star Boi,cc-by
 e2a6fccb24b823c48a4aca3b54821f35,UIX/UIX FILES/Data Files/Textures/vfx_rest_glow.dds, ,
-936035d23c24cea46a0e9d2e52c3d37d,UIX/UIX FILES/Data Files/Textures/Vurt_AOFTrunk.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-cbf4b26afb9a120f9fb97e57c07b1847,UIX/UIX FILES/Data Files/Textures/Vurt_AshVeg1.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-12b42e6a969d2a7dac8612b5a87ed14f,UIX/UIX FILES/Data Files/Textures/Vurt_AshVeg2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-7331f3cffec8ab372fa967d663073663,UIX/UIX FILES/Data Files/Textures/Vurt_BCGrassPlants.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-6efced2544f54f3c606e581c92fc7c58,UIX/UIX FILES/Data Files/Textures/Vurt_BigBaobLeaves.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-abb510f5476a69799e40dabf012fe3c6,UIX/UIX FILES/Data Files/Textures/Vurt_BrownGrs.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-eb3b1cdb28ab4db132144d19cc0cc64d,UIX/UIX FILES/Data Files/Textures/Vurt_CallunaVulgaris.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ee0e3c16c0f502ed2a7193d55765c51a,UIX/UIX FILES/Data Files/Textures/vurt_coralalpha.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c5742eaf31d5fed84398dedfc58be8db,UIX/UIX FILES/Data Files/Textures/Vurt_DarkGreen.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-37992878249c398daba95c363452f2b4,UIX/UIX FILES/Data Files/Textures/Vurt_DeadTop2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-21cf6b41a5bb122a0b04cfb458b22925,UIX/UIX FILES/Data Files/Textures/vurt_degrass.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-623308c2a299fda70a9dc1bc4465a65d,UIX/UIX FILES/Data Files/Textures/Vurt_Fern01.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8eb403ae9679c5f43504dbbd433e2310,UIX/UIX FILES/Data Files/Textures/Vurt_Fern02.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-7074cfa8bc9305f844a2149917bf4d8f,UIX/UIX FILES/Data Files/Textures/vurt_Fern03.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-4115a5f4e86a5a13758a91faaec69f8b,UIX/UIX FILES/Data Files/Textures/vurt_Fern04.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-305634069d899675bf15abb483b13470,UIX/UIX FILES/Data Files/Textures/vurt_Fern05.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-1c3c78356a505fd35feba2a5a8c2ca40,UIX/UIX FILES/Data Files/Textures/VURT_fire.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-679ba3d6de0a55372e43c43bed243e6b,UIX/UIX FILES/Data Files/Textures/Vurt_FloweryGreen.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ef0746c587b1e0068aeab3e7a4cd8cd8,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost1_g.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-34f4f15ef79dcd437cc997c4ec8462c8,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost1.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c70ac88ea6e1fb5d91bf1b818627ba21,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost2_G.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ce1393717ecf24dc03f4a50ac82b6570,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b419bbe963aab409fcda470d0f6522e2,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost3_g.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-409b78374e1f7b4466ceb020789b7b82,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost3.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-9ef8c2f1c07cafe265e6f9ece5dfb0b4,UIX/UIX FILES/Data Files/Textures/vurt_GLBranches.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-75c8eb75327b2d9df054d98e9fadb063,UIX/UIX FILES/Data Files/Textures/vurt_GLLeaves2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-fa84228f8a146e2dec53e16ea046d8a0,UIX/UIX FILES/Data Files/Textures/vurt_grass02.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-59fb39a92c3bba33c6647af6fc2dd037,UIX/UIX FILES/Data Files/Textures/vurt_grass022.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-2e9d81deb881afc78b47f10a96eaa613,UIX/UIX FILES/Data Files/Textures/vurt_grass03.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-a30f7970e5130340b2b0596187ffebb4,UIX/UIX FILES/Data Files/Textures/vurt_grass04.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-8c75bec97e2c23b5a09752a1adcc8637,UIX/UIX FILES/Data Files/Textures/vurt_grass05.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b865d5329d1360da087b3443fe86adda,UIX/UIX FILES/Data Files/Textures/vurt_GrazeBark031.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-3afbcd3fa5fc6d4b8a224f7bb7e72280,UIX/UIX FILES/Data Files/Textures/Vurt_GreenBushy.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-e3addc9528546b12843b9b15a5a419cf,UIX/UIX FILES/Data Files/Textures/Vurt_GreenGrs.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-18db2784014038525509b1af5ed4caf9,UIX/UIX FILES/Data Files/Textures/vurt_jap_pine011d.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-95591601602692c41196b4dd601451af,UIX/UIX FILES/Data Files/Textures/vurt_jap_pine011f.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-923b790418a7e155c875277da5e07c94,UIX/UIX FILES/Data Files/Textures/vurt_jbushybark.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-4df0f4103c762e4aad5eb7695fa1fb89,UIX/UIX FILES/Data Files/Textures/vurt_JPCanopy.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-1e759eef401eff4da5555c7d7b271bb5,UIX/UIX FILES/Data Files/Textures/vurt_jpcanopy2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-fee80d95822244cd7cbdfd34fe2c00bc,UIX/UIX FILES/Data Files/Textures/vurt_JPCanopyLower.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-e86a8983c3b81537b765a8f091b8178b,UIX/UIX FILES/Data Files/Textures/vurt_JPCanopyUpper.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-e36cb820361113583a64fc08c3183b44,UIX/UIX FILES/Data Files/Textures/vurt_JPCanopyUpper2.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-d57ddf01862ac2e02290a7f13da24e76,UIX/UIX FILES/Data Files/Textures/Vurt_Lupin.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-4aa96aa8e870e9462995679a75027708,UIX/UIX FILES/Data Files/Textures/vurt_naturalpine5.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-9e1ca9ea4fc1371489d708683769cad0,UIX/UIX FILES/Data Files/Textures/Vurt_nut.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-130d4cde3b7cc963587ebc6450b2be3e,UIX/UIX FILES/Data Files/Textures/vurt_oakbark02.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c40a85519fd93c18e2ffc7f5adb84401,UIX/UIX FILES/Data Files/Textures/vurt_oldgreybark.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-9d94ae8b9c4d1190bc6d40cce68cb876,UIX/UIX FILES/Data Files/Textures/vurt_paintpine4.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ebfd18f9c1f53fa504b57d7170eccc55,UIX/UIX FILES/Data Files/Textures/vurt_palmbark04.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-2ba917fa323b164118cd3ac3bd59fddf,UIX/UIX FILES/Data Files/Textures/Vurt_PalmLeaf31.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-14c3fcef044c1713326b670e8d0df349,UIX/UIX FILES/Data Files/Textures/Vurt_PalmLeafMix.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-f30bb72a9ab7069ce8e74ad176067017,UIX/UIX FILES/Data Files/Textures/Vurt_PalmLeafYe.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-f76e25e0cb4d9e5decb08bac57f71d4d,UIX/UIX FILES/Data Files/Textures/vurt_pbranchG.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-1a1561e747fedecef4bcf82998c3c796,UIX/UIX FILES/Data Files/Textures/Vurt_PineBranches.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-43446cc1c1680393485a8b808708c8c7,UIX/UIX FILES/Data Files/Textures/Vurt_RedFlw.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-e9d7cc18bde254fbceeea4e629b39620,UIX/UIX FILES/Data Files/Textures/vurt_seagrass_g.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-75e286f748da8cbe84ac7831666ebd08,UIX/UIX FILES/Data Files/Textures/vurt_seagrass.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-c0a818271625e2ab16655d1f4dd4778a,UIX/UIX FILES/Data Files/Textures/vurt_shroomy4.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-6695e43420f2ab1a382570f1b29dab61,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_Bushy.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-479c62a7dddf23d9abc4d667c0412717,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_GreenBushy.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-2c39b4e59b484eca196b4246a3a7ea81,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_Icy.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-ee7e766a556b906a628abc7f745a9146,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_Snowy.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-916335d6fa7a7ada25b0ae8cb004b7f1,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_WhiteFlower.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-513a522a61b32a340690776d3e668951,UIX/UIX FILES/Data Files/Textures/Vurt_YellowGrs.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-5c75df942ad42d5a6322b261e74924d6,UIX/UIX FILES/Data Files/Textures/vurt_yewleaves03.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-6a09300bdfb191fdcaed25ee7ebce08e,UIX/UIX FILES/Data Files/Textures/VurtPalmLowerLeaves.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
-b6c7825c4d453f4ca80f96221a794474,UIX/UIX FILES/Data Files/Textures/VurtPineBark01_1.dds,by Patrik ‘Vurt’ Andersson,cc-by-nc
+936035d23c24cea46a0e9d2e52c3d37d,UIX/UIX FILES/Data Files/Textures/Vurt_AOFTrunk.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+cbf4b26afb9a120f9fb97e57c07b1847,UIX/UIX FILES/Data Files/Textures/Vurt_AshVeg1.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+12b42e6a969d2a7dac8612b5a87ed14f,UIX/UIX FILES/Data Files/Textures/Vurt_AshVeg2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+7331f3cffec8ab372fa967d663073663,UIX/UIX FILES/Data Files/Textures/Vurt_BCGrassPlants.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+6efced2544f54f3c606e581c92fc7c58,UIX/UIX FILES/Data Files/Textures/Vurt_BigBaobLeaves.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+abb510f5476a69799e40dabf012fe3c6,UIX/UIX FILES/Data Files/Textures/Vurt_BrownGrs.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+eb3b1cdb28ab4db132144d19cc0cc64d,UIX/UIX FILES/Data Files/Textures/Vurt_CallunaVulgaris.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ee0e3c16c0f502ed2a7193d55765c51a,UIX/UIX FILES/Data Files/Textures/vurt_coralalpha.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c5742eaf31d5fed84398dedfc58be8db,UIX/UIX FILES/Data Files/Textures/Vurt_DarkGreen.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+37992878249c398daba95c363452f2b4,UIX/UIX FILES/Data Files/Textures/Vurt_DeadTop2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+21cf6b41a5bb122a0b04cfb458b22925,UIX/UIX FILES/Data Files/Textures/vurt_degrass.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+623308c2a299fda70a9dc1bc4465a65d,UIX/UIX FILES/Data Files/Textures/Vurt_Fern01.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8eb403ae9679c5f43504dbbd433e2310,UIX/UIX FILES/Data Files/Textures/Vurt_Fern02.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+7074cfa8bc9305f844a2149917bf4d8f,UIX/UIX FILES/Data Files/Textures/vurt_Fern03.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+4115a5f4e86a5a13758a91faaec69f8b,UIX/UIX FILES/Data Files/Textures/vurt_Fern04.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+305634069d899675bf15abb483b13470,UIX/UIX FILES/Data Files/Textures/vurt_Fern05.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+1c3c78356a505fd35feba2a5a8c2ca40,UIX/UIX FILES/Data Files/Textures/VURT_fire.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+679ba3d6de0a55372e43c43bed243e6b,UIX/UIX FILES/Data Files/Textures/Vurt_FloweryGreen.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ef0746c587b1e0068aeab3e7a4cd8cd8,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost1_g.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+34f4f15ef79dcd437cc997c4ec8462c8,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost1.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c70ac88ea6e1fb5d91bf1b818627ba21,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost2_G.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ce1393717ecf24dc03f4a50ac82b6570,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b419bbe963aab409fcda470d0f6522e2,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost3_g.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+409b78374e1f7b4466ceb020789b7b82,UIX/UIX FILES/Data Files/Textures/Vurt_Ghost3.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+9ef8c2f1c07cafe265e6f9ece5dfb0b4,UIX/UIX FILES/Data Files/Textures/vurt_GLBranches.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+75c8eb75327b2d9df054d98e9fadb063,UIX/UIX FILES/Data Files/Textures/vurt_GLLeaves2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+fa84228f8a146e2dec53e16ea046d8a0,UIX/UIX FILES/Data Files/Textures/vurt_grass02.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+59fb39a92c3bba33c6647af6fc2dd037,UIX/UIX FILES/Data Files/Textures/vurt_grass022.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+2e9d81deb881afc78b47f10a96eaa613,UIX/UIX FILES/Data Files/Textures/vurt_grass03.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+a30f7970e5130340b2b0596187ffebb4,UIX/UIX FILES/Data Files/Textures/vurt_grass04.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+8c75bec97e2c23b5a09752a1adcc8637,UIX/UIX FILES/Data Files/Textures/vurt_grass05.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b865d5329d1360da087b3443fe86adda,UIX/UIX FILES/Data Files/Textures/vurt_GrazeBark031.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+3afbcd3fa5fc6d4b8a224f7bb7e72280,UIX/UIX FILES/Data Files/Textures/Vurt_GreenBushy.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+e3addc9528546b12843b9b15a5a419cf,UIX/UIX FILES/Data Files/Textures/Vurt_GreenGrs.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+18db2784014038525509b1af5ed4caf9,UIX/UIX FILES/Data Files/Textures/vurt_jap_pine011d.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+95591601602692c41196b4dd601451af,UIX/UIX FILES/Data Files/Textures/vurt_jap_pine011f.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+923b790418a7e155c875277da5e07c94,UIX/UIX FILES/Data Files/Textures/vurt_jbushybark.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+4df0f4103c762e4aad5eb7695fa1fb89,UIX/UIX FILES/Data Files/Textures/vurt_JPCanopy.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+1e759eef401eff4da5555c7d7b271bb5,UIX/UIX FILES/Data Files/Textures/vurt_jpcanopy2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+fee80d95822244cd7cbdfd34fe2c00bc,UIX/UIX FILES/Data Files/Textures/vurt_JPCanopyLower.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+e86a8983c3b81537b765a8f091b8178b,UIX/UIX FILES/Data Files/Textures/vurt_JPCanopyUpper.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+e36cb820361113583a64fc08c3183b44,UIX/UIX FILES/Data Files/Textures/vurt_JPCanopyUpper2.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+d57ddf01862ac2e02290a7f13da24e76,UIX/UIX FILES/Data Files/Textures/Vurt_Lupin.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+4aa96aa8e870e9462995679a75027708,UIX/UIX FILES/Data Files/Textures/vurt_naturalpine5.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+9e1ca9ea4fc1371489d708683769cad0,UIX/UIX FILES/Data Files/Textures/Vurt_nut.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+130d4cde3b7cc963587ebc6450b2be3e,UIX/UIX FILES/Data Files/Textures/vurt_oakbark02.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c40a85519fd93c18e2ffc7f5adb84401,UIX/UIX FILES/Data Files/Textures/vurt_oldgreybark.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+9d94ae8b9c4d1190bc6d40cce68cb876,UIX/UIX FILES/Data Files/Textures/vurt_paintpine4.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ebfd18f9c1f53fa504b57d7170eccc55,UIX/UIX FILES/Data Files/Textures/vurt_palmbark04.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+2ba917fa323b164118cd3ac3bd59fddf,UIX/UIX FILES/Data Files/Textures/Vurt_PalmLeaf31.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+14c3fcef044c1713326b670e8d0df349,UIX/UIX FILES/Data Files/Textures/Vurt_PalmLeafMix.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+f30bb72a9ab7069ce8e74ad176067017,UIX/UIX FILES/Data Files/Textures/Vurt_PalmLeafYe.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+f76e25e0cb4d9e5decb08bac57f71d4d,UIX/UIX FILES/Data Files/Textures/vurt_pbranchG.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+1a1561e747fedecef4bcf82998c3c796,UIX/UIX FILES/Data Files/Textures/Vurt_PineBranches.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+43446cc1c1680393485a8b808708c8c7,UIX/UIX FILES/Data Files/Textures/Vurt_RedFlw.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+e9d7cc18bde254fbceeea4e629b39620,UIX/UIX FILES/Data Files/Textures/vurt_seagrass_g.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+75e286f748da8cbe84ac7831666ebd08,UIX/UIX FILES/Data Files/Textures/vurt_seagrass.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+c0a818271625e2ab16655d1f4dd4778a,UIX/UIX FILES/Data Files/Textures/vurt_shroomy4.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+6695e43420f2ab1a382570f1b29dab61,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_Bushy.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+479c62a7dddf23d9abc4d667c0412717,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_GreenBushy.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+2c39b4e59b484eca196b4246a3a7ea81,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_Icy.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+ee7e766a556b906a628abc7f745a9146,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_Snowy.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+916335d6fa7a7ada25b0ae8cb004b7f1,UIX/UIX FILES/Data Files/Textures/Vurt_Solstheim_WhiteFlower.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+513a522a61b32a340690776d3e668951,UIX/UIX FILES/Data Files/Textures/Vurt_YellowGrs.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+5c75df942ad42d5a6322b261e74924d6,UIX/UIX FILES/Data Files/Textures/vurt_yewleaves03.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+6a09300bdfb191fdcaed25ee7ebce08e,UIX/UIX FILES/Data Files/Textures/VurtPalmLowerLeaves.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
+b6c7825c4d453f4ca80f96221a794474,UIX/UIX FILES/Data Files/Textures/VurtPineBark01_1.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc
 0398b2e27656e82348bc8ae35e3af52b,UIX/UIX FILES/Data Files/Textures/WallStucco01.dds, ,
 37e9f4787d046d4d998fc504212f3ea1,UIX/UIX FILES/Data Files/Textures/WallStucco02.dds, ,
 b77c0d3208caecbb7ddf14d3ba8344f2,UIX/UIX FILES/Data Files/Textures/WallStucco03.dds, ,

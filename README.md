@@ -38,11 +38,16 @@ Alain "Spyder" Brunotte, released over a 1300 assets under the CC0 license. Spyd
     even mentioned once when Corv released the UIX:R files, but I actually do not need my name
     under these assets. I consider them as pieces of my learning process and many are quite messy ;)
 
-Star Boi and his 828 assets under the CC-BY license as he wrote:
+Star Boi and his 800+ assets under the CC-BY license as he wrote:
 
     All persons are free to use these meshes as they see fit, keeping in mind that if used in
     another released mod, you should give me credit in the readme, but of course that wont be
     enforced, but it would be nice ^_^ Besides that, do as you will!
+
+Patrik "Vurt" Andersson and his 120+ assets are now under the CC-BY-NC license:
+    
+    Yes my work can be used as long as the person is not making money of it.
+    https://creativecommons.org/licenses/by-nc/4.0/ that one sounds good!
 
 ## People we are looking to make contact with
 
@@ -55,8 +60,7 @@ Cait / Cait Sith
 Dustin Naegel  
 Jeremy McGuinn - Knights of Tamriel
 Lady Eternity and Proudfoot
-Matti Paalanen  
-Patrik "Vurt" Andersson  
+Matti Paalanen   
 Steven "Chlorthos" McCrary  
 
 ## Original UIX:R
