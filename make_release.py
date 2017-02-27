@@ -6,7 +6,7 @@ import os
 import sys
 import tarfile
 
-RELEASE_PATH = "uixr-assets-cc0-1.1.tar"
+RELEASE_PATH = "uixr-assets-le-1.2.tar"
 ASSET_PATH = "../../../Private"
 
 
@@ -34,7 +34,8 @@ with open("Manifests/UIXR.manifest") as f:
     additional_assets = []
     print("Gathering assets: ")
     for row in uixr_data:
-        if row.get('license').lower() == 'cc0':
+        row_license = row.get('license').lower()
+        if row_license == 'cc0' or row_license == 'cc-by' or row_license == 'cc-by-nc':
             sys.stdout.write("\033[K")
             sys.stdout.write(next(spinner))
             sys.stdout.write(" [{0}]".format(row.get('asset')))
@@ -85,9 +86,12 @@ with open("Manifests/UIXR.manifest") as f:
             f.seek(0)   # reset to beginning of csv file
             for row in uixr_data:
                 if row.get('asset').lower() == relative_asset_path.lower():
-                    if row.get('license').lower() == 'cc0':
+                    row_license = row.get('license').lower()
+                    if row_license == 'cc0':
                         break  # good to go, break
-                    elif row.get('license').lower() == 'cc-by':
+                    elif row_license == 'cc-by':
+                        break  # good to go, break
+                    elif row_license == 'cc-by-nc':
                         break  # good to go, break
                     else:
                         print("WARNING: Non-CC license asset -> {0}".format(relative_asset_path))

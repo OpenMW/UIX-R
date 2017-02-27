@@ -13,7 +13,7 @@ release or re-license their work to a Creative Common License of their choice.
 
 ## Available CC licenses
 
-Currently 100% of the assets found in the LE fall under either the CC0 or CC-BY license.
+Currently 100% of the assets found in the LE fall under one of the Creative Commons licenses.
 
 As more content creators are contacted, they can pick a CC license that bests suites them.
 
@@ -26,9 +26,14 @@ purposes without restriction under copyright or database law.
   
 ### CC-BY
 CC-BY is a license which only stipulates that you include the original author's name with
-the work, including all derived work.
+the work.
 
   - CC-BY https://creativecommons.org/licenses/by/4.0/
+
+### CC-BY-NC
+CC-BY-NC is the same as CC-BY except that it can't be used for commercial use.
+
+  - CC-BY-NC https://creativecommons.org/licenses/by-nc/4.0/
 
 ## People you should thank
 
