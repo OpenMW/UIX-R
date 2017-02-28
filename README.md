@@ -54,12 +54,21 @@ Patrik "Vurt" Andersson and his 120+ assets are now under the CC-BY-NC license:
     Yes my work can be used as long as the person is not making money of it.
     https://creativecommons.org/licenses/by-nc/4.0/ that one sounds good!
 
+Barabus's work falls under the CC-BY license:
+
+    Feel free to include this content in your own mods whilst ensuring I am 
+    credited with the original work.Thankyou for using this mod I hope you 
+    enjoy it.
+
+Eric "N'Dib" Henry released his work under the CC-BY-NC license:
+
+    This work is licensed under the Creative Commons Attribution-NonCommercial License.
+
 ## People we are looking to make contact with
 
 If you have any information leading to the following people, please create a ticket and we can
 talk further!
 
-barabus  
 Brad "Operadragon" Venable  
 Cait / Cait Sith
 Dustin Naegel  

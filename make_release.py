@@ -6,7 +6,7 @@ import os
 import sys
 import tarfile
 
-RELEASE_PATH = "uixr-assets-le-1.2.tar"
+RELEASE_PATH = "uixr-assets-le-1.3.tar"
 ASSET_PATH = "../../../Private"
 
 
@@ -24,6 +24,16 @@ def insensitive_glob(pattern, recursive):
     def either(c):
         return '[%s%s]' % (c.lower(), c.upper()) if c.isalpha() else c
     return glob.iglob(''.join(map(either, pattern)), recursive=recursive)
+
+
+def find_match(ap, rap):
+    asset_filename, asset_extension = os.path.splitext(ap.lower())
+    relative_asset_filename, relative_asset_extension = os.path.splitext(rap.lower())
+
+    if asset_filename == relative_asset_filename:
+        return True
+    else:
+        return False
 
 
 with open("Manifests/UIXR.manifest") as f:
@@ -53,7 +63,7 @@ with open("Manifests/UIXR.manifest") as f:
             nif_assets = walk_nif(nif_path=file_path, use_stdout=False)
             for asset_string in nif_assets:
                 for asset in asset_string.split(', '):
-                    additional_assets.append(get_filename(asset))
+                    additional_assets.append(get_filename(asset).lower())
 
     # remove duplicates
     additional_assets = set(additional_assets)
@@ -64,7 +74,7 @@ with open("Manifests/UIXR.manifest") as f:
 
     # remove files listed in manifest, we already have them
     for asset in manifest:
-        filename = os.path.basename(asset)
+        filename = os.path.basename(asset).lower()
         if filename in additional_assets:
             additional_assets.remove(filename)
 
@@ -72,7 +82,9 @@ with open("Manifests/UIXR.manifest") as f:
     # iterate through all sub assets
     for nif_asset in additional_assets:
         found = False
-        glob_path = os.path.join(ASSET_PATH, "UIX", "**", nif_asset)
+        na_filename, _ = os.path.splitext(nif_asset.lower())
+        na_filename += '.*'
+        glob_path = os.path.join(ASSET_PATH, "UIX", "**", na_filename)
         for asset_path in insensitive_glob(glob_path, True):
             found = True
             relative_asset_path = os.path.relpath(os.path.realpath(asset_path), ASSET_PATH)
@@ -85,7 +97,7 @@ with open("Manifests/UIXR.manifest") as f:
             sys.stdout.write('\r\b')
             f.seek(0)   # reset to beginning of csv file
             for row in uixr_data:
-                if row.get('asset').lower() == relative_asset_path.lower():
+                if find_match(row.get('asset'), relative_asset_path):
                     row_license = row.get('license').lower()
                     if row_license == 'cc0':
                         break  # good to go, break
@@ -95,6 +107,7 @@ with open("Manifests/UIXR.manifest") as f:
                         break  # good to go, break
                     else:
                         print("WARNING: Non-CC license asset -> {0}".format(relative_asset_path))
+                        found = False
             tar_ball.add(asset_path, relative_asset_path)
         if not found:
             print("WARNING: sub-asset not found -> {0}".format(nif_asset))
