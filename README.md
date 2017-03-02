@@ -60,9 +60,54 @@ Barabus's work falls under the CC-BY license:
     credited with the original work.Thankyou for using this mod I hope you 
     enjoy it.
 
-Eric "N'Dib" Henry released his work under the CC-BY-NC license:
+Eric "N'Dib" Henry's work falls under under the CC-BY-NC license:
 
     This work is licensed under the Creative Commons Attribution-NonCommercial License.
+
+Jesse "jdooby" Wilson's work falls under under the CC-BY license:
+
+    Use in your own mods to your heart's content!
+
+Frederick "Dracus Dragani" Zazulka's work falls under the CC-BY-NC license:
+
+    The files contained within this archive are not to be used for commercial purposes.
+    
+Ayse reused textures from other sites who's licenses all fall under CC-BY license:
+
+    NOCTUA Graphics Website - http://www.noctua-graphics.de/english/fraset_e.htm
+    All textures, materials and 3D objects in the download area can be used
+    without any restrictions in your own private and commercial projects.
+
+    Paul Bourke - http://paulbourke.net
+    These textures may be freely used as backgrounds, textures in 3D scenes,
+    parts of images, etc
+
+    LEMOG Graphics - http://perso.club-internet.fr/lemog/lemog_textures/acc_textures01.html
+    You can find a great choice of textures, all "seamless", and it's completely free!
+
+Lady Eternity's work falls under the CC-BY license:
+
+    I give my permission to modders to freely distribute and use my models and mods,
+    as long as they do not chop the models up and re-release them.
+    As long as they give credit for work done.
+    PF will have to give permission seperately, as I cannot speak for him.
+    He did the textures on most of my models.
+
+Proudfoot then later followed up Lady Eternity which falls under the CC-BY license as well:
+
+    Greenlight on my stuff, enjoy. - Proudfoot
+
+Aleanne, Cait, Rhedd and Ren collectively used the following which falls under CC-BY license:
+
+    You may use and distribute the models and textures freely without
+    additional permission as long as the above credits and contact information
+    are included.
+
+Redtreespirit said this about Nomad's work:
+
+    Nomad is no longer reachable, so you're welcome to contact me with any questions.
+    All meshes and textures by Nomad.
+    My OKs: You are welcome to use the meshes in any Morrowind or TESCS project.
 
 ## People we are looking to make contact with
 
@@ -70,11 +115,9 @@ If you have any information leading to the following people, please create a tic
 talk further!
 
 Brad "Operadragon" Venable  
-Cait / Cait Sith
 Dustin Naegel  
 Jeremy McGuinn - Knights of Tamriel
-Lady Eternity and Proudfoot
-Matti Paalanen   
+Matti Paalanen  
 Steven "Chlorthos" McCrary  
 
 ## Original UIX:R
