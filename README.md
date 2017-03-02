@@ -103,7 +103,7 @@ Aleanne, Cait, Rhedd and Ren collectively used the following which falls under C
     additional permission as long as the above credits and contact information
     are included.
 
-Redtreespirit said this about Nomad's work:
+Redtreespirit said the following of Nomad's work which falls under the CC-BY-SA:
 
     Nomad is no longer reachable, so you're welcome to contact me with any questions.
     All meshes and textures by Nomad.
