@@ -51,20 +51,17 @@ def worker(work_queue, done_queue):
     spinner = spinning_cursor()
     p = current_process()
     for nif_path in iter(work_queue.get, 'STOP'):
-        sys.stdout.write("\033[K")
-        sys.stdout.write(next(spinner))
-        sys.stdout.write(" [{0}][{1}][{2}]".format(work_queue.qsize(), p.name, nif_path))
+        sys.stdout.write("\r\b\033[K{0} [{1}][{2}][{3}]".format(
+            next(spinner), work_queue.qsize(), p.name, nif_path))
         sys.stdout.flush()
-        sys.stdout.write('\r\b')
         assets = []
         try:
             # assets.append('DEADBEEF')
             assets = retrieve_assets_from_nif(nif_path)
         except Exception:
             pass
-        done_queue.put((p.name, nif_path, assets))
+        done_queue.put((nif_path, assets))
     done_queue.put('STOP')
-    print("{} finished.".format(p.name))
     return True
 
 
@@ -75,6 +72,7 @@ def main():
         spinner = spinning_cursor()
         manifest = []
         additional_assets = []
+        additional_assets_nif = {}
 
         # setup multi-processing job
         workers = 8
@@ -86,11 +84,8 @@ def main():
         for row in uixr_data:
             row_license = row.get('license').lower()
             if row_license == 'cc0' or row_license == 'cc-by' or row_license == 'cc-by-nc':
-                sys.stdout.write("\033[K")
-                sys.stdout.write(next(spinner))
-                sys.stdout.write(" [{0}]".format(row.get('asset')))
+                sys.stdout.write("\r\b \033[K{0} [{1}]".format(next(spinner), row.get('asset')))
                 sys.stdout.flush()
-                sys.stdout.write('\r\b')
                 file_path = os.path.join(ASSET_PATH, row.get('asset'))
                 if not os.path.exists(file_path):
                     print("WARNING: asset not found -> {0}".format(row.get('asset')))
@@ -101,14 +96,13 @@ def main():
                 work_queue.put(file_path)
 
         # let multiprocessing parse the nifs
-        print("Parsing NIFs for additional sub-assets: ")
+        print("\n\nParsing NIFs for additional sub-assets: ")
         for i in range(workers):
             p = Process(target=worker, args=(work_queue, done_queue))
             processes.append(p)
             work_queue.put('STOP')
             p.start()
 
-        print("Building assets to validate.")
         stops = 0
         while True:
             item = done_queue.get()
@@ -118,10 +112,11 @@ def main():
                     break
             else:
                 # for worker_name, nif_name, nif_assets in iter(done_queue.get, 'STOP'):
-                _, _, nif_assets = item
+                nif_path, nif_assets = item
                 additional_assets += nif_assets
+                additional_assets_nif[nif_path] = nif_assets
 
-        print("Filtering assets.")
+        print("\n\nFiltering assets.")
         # remove duplicates
         additional_assets = set(additional_assets)
 
@@ -135,9 +130,19 @@ def main():
             if filename in additional_assets:
                 additional_assets.remove(filename)
 
-        print("Gathering sub-assets: ")
+        # match assets back to NIF
+        additional_assets = list(additional_assets)
+        for i in range(len(additional_assets)):
+            asset = additional_assets[i]
+            nifs_found = []
+            for nif, assets in additional_assets_nif.items():
+                if asset in assets:
+                    nifs_found.append(nif)
+            additional_assets[i] = (asset, [nif.replace(ASSET_PATH, '') for nif in nifs_found])
+
+        print("\n\nGathering sub-assets: ")
         # iterate through all sub assets
-        for nif_asset in additional_assets:
+        for nif_asset, nifs in additional_assets:
             found = False
             na_filename, _ = os.path.splitext(nif_asset.lower())
             na_filename += '.*'
@@ -147,11 +152,8 @@ def main():
                 relative_asset_path = os.path.relpath(os.path.realpath(asset_path), ASSET_PATH)
                 if relative_asset_path in tar_ball.getnames():
                     break  # file already exists, skip
-                sys.stdout.write("\033[K")
-                sys.stdout.write(next(spinner))
-                sys.stdout.write(" [{0}]".format(relative_asset_path))
+                sys.stdout.write("\r\b\033[K{0} [{1}]".format(next(spinner), relative_asset_path))
                 sys.stdout.flush()
-                sys.stdout.write('\r\b')
                 f.seek(0)   # reset to beginning of csv file
                 for row in uixr_data:
                     if find_match(row.get('asset'), relative_asset_path):
@@ -163,12 +165,10 @@ def main():
                         elif row_license == 'cc-by-nc':
                             break  # good to go, break
                         else:
-                            print("WARNING: Non-CC license asset -> {0}".format(relative_asset_path))
-                            found = False
-                tar_ball.add(asset_path, relative_asset_path)
+                            print("\nWARNING: Non-CC license asset -> {0} ({1})\n".format(
+                                relative_asset_path, nifs))
             if not found:
-                print("WARNING: sub-asset not found -> {0}".format(nif_asset))
-
+                print("\nWARNING: sub-asset not found -> {0} ({1})\n".format(nif_asset, nifs))
         tar_ball.close()
 
 

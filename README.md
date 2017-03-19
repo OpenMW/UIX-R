@@ -103,11 +103,61 @@ Aleanne, Cait, Rhedd and Ren collectively used the following which falls under C
     additional permission as long as the above credits and contact information
     are included.
 
-Redtreespirit said the following of Nomad's work which falls under the CC-BY-SA:
+Redtreespirit said the following of Nomad's work which falls under CC-BY-SA:
 
     Nomad is no longer reachable, so you're welcome to contact me with any questions.
     All meshes and textures by Nomad.
     My OKs: You are welcome to use the meshes in any Morrowind or TESCS project.
+
+Tom “Neuman” Oldani of Better Bodies has placed his work under CC-BY-SA:
+
+    Generally, I've given anyone who asks permission to use our assets, provided 
+    they say somewhere in the documentation where the assets came from.  
+    If that's what you're asking, then sure, feel free to use them. 
+
+Gorg & Arathrax (DarkSharp) of Better Heads used the following which falls under the CC-BY-SA license:
+
+    YES you can "reuse", "remake", "redistribute" etc some, all or any part of this mod. 
+    Gorg and Arathrax have asked only 2 things.
+	    * First that you give Gorg and Arathrax and any of the original texture artists credit 
+	      in your readme
+	    * Second that if you alter any models in any way that you change the name of the model, 
+	      if you use it exactly as is please leave the name as is. 
+	      (Same request that Rhedd made concerning the reuse of his stuff)
+	      
+    Textures artists:	      
+        Allerleirauh, Wormgod, Don Salus, Hellkitty, Eternum, Nomad, Mantodea, Sheikizza, 
+        Astarsis, Zuldazug, Noviere, Silaria, CanadianIce, Motoki, Arathrax, and Gorg
+
+Emma and Robert (Grumpy) have released their work which fall under the CC-BY license:
+     
+    My meshes and textures can be used freely without any conditions, only if it's modyfied 
+    the file names should be changed to avoid overwriting issues.
+    
+    Heads - You may use these heads in your mods without asking for further permission.
+
+Korana & Semtex who furthered Neuman, Gorg and DarkSharp's work under the CC-BY license:
+
+    Feel free to use any of these items in other projects! Permission is not needed, 
+    but I do appreciate a message letting me know...as I get tickled pink when I see 
+    any of my projects in use in other projects!  Please, make sure you give the appropriate 
+    creators credit as well...and give me credit for anything of mine you used.
+
+Steve "Dongle" Deffeyes wrote the following which falls under the CC-BY license:
+
+    You are free to use this in any Morrowind project you wish. Asking ahead is not
+    necessary. Giving credit is not necessary, although you are welcome to if you wish.
+    
+    If you wish to modify this in any way, ie edit the mesh or the texturing, you
+    may do so. Please credit yourself with the final product and not me. Also please
+    change the filenames to avoid conflicts with mods that use the unaltered files.
+
+Razhkul's work falls under the CC-BY license:
+
+    The dragons models and all the scripts except the dragon riding
+    script are freely distributable, you can use them in your mod, the
+    only thing I ask is that you inform me about its use and please, not use
+    the dragons excessively.
 
 ## People we are looking to make contact with
 

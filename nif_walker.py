@@ -65,7 +65,7 @@ def walk_nif(nif_path, use_stdout=True):
             if use_stdout:
                 print(assets_string, sep=', ', end='\n', file=stdout, flush=True)
         except ValueError as ex:
-            print(" Error with {0}: {1}".format(stream.name, str(ex.args)), sep='', end='\n', file=stdout, flush=True)
+            print("\n Error with {0}: {1}".format(stream.name, str(ex.args)), sep='', end='\n', file=stdout, flush=True)
         except Exception as ex:
             print(ex)
             raise
