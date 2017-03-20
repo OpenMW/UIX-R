@@ -26,10 +26,18 @@ jarvik_md5 = None
 with open("Manifests/jarvik.manifest", 'r') as content_file:
     jarvik_md5 = content_file.read()
 
+glory_md5 = None
+with open("Manifests/glory.manifest", 'r') as content_file:
+    glory_md5 = content_file.read()
+
+ules_md5 = None
+with open("Manifests/ules.manifest", 'r') as content_file:
+    ules_md5 = content_file.read()
+
 
 def validate(md5_list):
     print("\nComparing md5sum of UIX:R to the other files.")
-    beth_counter = starboi_counter = vurt_counter = jarvik_counter = 0
+    beth_counter = starboi_counter = vurt_counter = jarvik_counter = glory_counter = ules_counter = 0
     for line in md5_list.split('\n'):
         if len(line) > 0:
             md5, rest = line.split(",", 1)
@@ -51,14 +59,26 @@ def validate(md5_list):
             if md5 in jarvik_md5:
                 jarvik_counter += 1
                 print("{0},{1},Found in Jarvik bsa".format(md5, rest))
-                
+            if md5 in glory_md5:
+                glory_counter += 1
+                print("{0},{1},Found in TheGloryRoad".format(md5, rest))
+            if md5 in ules_md5:
+                ules_counter += 1
+                print("{0},{1},Found in Ules' Farm".format(md5, rest))
+
+    total = beth_counter + starboi_counter + vurt_counter + jarvik_counter + glory_counter + \
+        ules_counter
+
     print("""\
-Out of {0} files, found:
-  {1} bethesda files
-  {2} starboi files
-  {3} vurt files
-  {4} jarvik files""".format(
-        len(md5_list.split('\n'))-1, beth_counter, starboi_counter, vurt_counter, jarvik_counter))
+Out of {0} files, found: {1}
+  {2} bethesda files
+  {3} starboi files
+  {4} vurt files
+  {5} jarvik files
+  {6} glory files
+  {7} ules files""".format(
+        len(md5_list.split('\n'))-1, total, beth_counter, starboi_counter, vurt_counter,
+        jarvik_counter, glory_counter, ules_counter))
 
     
 # uixr files

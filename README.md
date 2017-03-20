@@ -152,12 +152,24 @@ Steve "Dongle" Deffeyes wrote the following which falls under the CC-BY license:
     may do so. Please credit yourself with the final product and not me. Also please
     change the filenames to avoid conflicts with mods that use the unaltered files.
 
-Razhkul's work falls under the CC-BY license:
+Razhkul's work falls under the CC-BY license when he wrote this:
 
     The dragons models and all the scripts except the dragon riding
     script are freely distributable, you can use them in your mod, the
     only thing I ask is that you inform me about its use and please, not use
     the dragons excessively.
+
+Don Salus' work falls under the CC-BY license according to this:
+
+    My Plugins are completely free, so you can use my faces in your mod without
+    my permission, just GIVE ME SOME CREDIT, please....that's All. :)
+    
+Silaria wrote the following about her work which falls under the CC-BY license:    
+    
+    If you wish to use any of these files in your mod, you are more than welcome
+    to do so. However if you release your mod, please be courteous and provide
+    me credit for the original work. Respect is given when it is earned!
+    
 
 ## People we are looking to make contact with
 
