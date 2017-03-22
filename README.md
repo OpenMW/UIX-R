@@ -68,7 +68,7 @@ Jesse "jdooby" Wilson's work falls under under the CC-BY license:
 
     Use in your own mods to your heart's content!
 
-Frederick "Dracus Dragani" Zazulka's work falls under the CC-BY-NC license:
+Frederick "Dracus Dragani"'s work falls under the CC-BY-NC license:
 
     The files contained within this archive are not to be used for commercial purposes.
     
@@ -189,8 +189,79 @@ http://www.titansofether.com/uix/
 
 # Changelog
 
+## uixr-assets-le-1.3 (20170322)
+  - over 3800+ assets added
+  - added Barbarus' 280+ CC-BY assets:
+    - 177 NIF
+    - 101 DDS
+    - 6 TGA
+  - added Eric "N'Dib"'s 400+ CC-BY-NC assets:
+    - 187 DDS
+    - 181 NIF
+    - 35 TGA
+    - 11 KF
+  - added Jesse "jdooby"'s 280+CC-BY assets:
+    - 167 NIF
+    - 19 TGA
+    - 5 DDS
+    - 1 KF
+  - added Frederick's 180+ CC-BY-NC assets
+    - 148 DDS
+    - 36 NIF
+  - added Ayse's 500+ CC-BY assets:
+    - 293 NIF
+    - 240 DDS
+    - 20 TGA
+    - 8 KF
+  - added Lady Eternity and Proudfoot's 60+ CC-BY assets:
+    - 47 NIF
+    - 8 TGA
+    - 2 KF
+    - 2 DDS
+  - added Aleanne/Cait/Rhedd/Ren's 960+ CC-BY assets:
+    - 473 NIF
+    - 255 DDS
+    - 170 KF
+    - 57 TGA
+  - added Redtreespirit's 320+ CC-BY-SA assets:
+    - 161 NIF
+    - 68 KF
+    - 79 BMP
+    - 11 TGA
+  - added Tom "Neuman"'s 60+ CC-BY-SA assets:
+    - 33 DDS
+    - 32 NIF
+  - added Gorg & Arathrax's 350+ CC-BY-SA assets:
+    - 179 NIF
+    - 165 DDS
+    - 8 TGA
+  - added Emma & Robert's 110+ CC-BY assets:
+    - 57 DDS
+    - 56 NIF
+  - added Korana & Semtex's 32+ CC-BY assets:
+    - 13 NIF
+    - 12 DDS
+    - 7 TGA
+  - added Steve "Dongle"'s 70+ CC-BY assets:
+    - 40 NIF
+    - 29 DDS
+    - 2 TGA
+    - 1 KF
+  - added Don's 80+ CC-BY assets:
+    - 39 NIF
+    - 26 DDS
+    - 18 BMP
+  - added Razhkul's 120+ CC-BY assets:
+    - 54 NIF
+    - 52 DDS
+    - 12 KF
+    - 5 TGA
+  - added Silaria's 10+ CC-BY assets:
+    - 6 NIF
+    - 6 DDS
+
 ## uixr-assets-le-1.2 (20170227)
-  - added over 170 assets released under the CC-BY license
+  - added over 170 assets released under the CC-BY-NC license
     - 107 DDS
     - 65 NIF
     - 1 TGA

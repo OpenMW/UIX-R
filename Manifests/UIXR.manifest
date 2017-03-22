@@ -908,19 +908,19 @@ fe6afe85eee599d79e808509fa1186a7,UIX/UIX FILES/Data Files/Meshes/ba1/bar_forge.n
 71e64dd549e924121baa9a50b5a59160,UIX/UIX FILES/Data Files/Meshes/ba1/bar_forgebellows.nif,by barabus,cc-by
 1b4e0fed935d0aa0de361d19e5d017c7,UIX/UIX FILES/Data Files/Meshes/ba1/bar_in_door01.nif,by barabus,cc-by
 251f31e0ea746916a334e73107ebe289,UIX/UIX FILES/Data Files/Meshes/ba1/bar_in_door02.nif,by barabus,cc-by
-4cd057bad556e357feeba105b2f15526,UIX/UIX FILES/Data Files/Meshes/Bamboo/Ayse_Bmb_03a.nif, ,
-bf3b97675b81b95b971b2127f9320f88,UIX/UIX FILES/Data Files/Meshes/Bamboo/Ayse_Bmb_03b.nif, ,
-0981138cb0fee2860f905a0eca257c5c,UIX/UIX FILES/Data Files/Meshes/Bamboo/Leg_Bamboo1.NIF, ,
-f963a52be1d65c440c34901df9a52f4b,UIX/UIX FILES/Data Files/Meshes/Bamboo/leg_Bamboo2.NIF, ,
-792062e365c8747f314ca7940837e39a,UIX/UIX FILES/Data Files/Meshes/Bamboo/leg_Bamboo3.NIF, ,
-d380a1ab7de7c8c742174935c5602ca7,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbLg1a.nif, ,
-40ed8c5b0de5a353525d23f26b33df7b,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbLg1b.nif, ,
-84f1c555d57fde897cfb6b0e7bc99c69,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbShootsA.nif, ,
-7dd7339810615ea635c17496ee661663,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbShootsB.nif, ,
-23d33ec0900a8b7e8ab5d312fa43d8b2,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbSm1a.nif, ,
-77c43abbbac76ec7951f0ef7bbd003ad,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbSm1b.nif, ,
-f642ac33e317ca494d3b0435d9527cf1,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbSm2a.nif, ,
-1e9919d1709ca7d333ea6ecac2ade71c,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbSm2b.nif, ,
+4cd057bad556e357feeba105b2f15526,UIX/UIX FILES/Data Files/Meshes/Bamboo/Ayse_Bmb_03a.nif,by redtreespirit,cc-by-sa
+bf3b97675b81b95b971b2127f9320f88,UIX/UIX FILES/Data Files/Meshes/Bamboo/Ayse_Bmb_03b.nif,by redtreespirit,cc-by-sa
+0981138cb0fee2860f905a0eca257c5c,UIX/UIX FILES/Data Files/Meshes/Bamboo/Leg_Bamboo1.NIF,by redtreespirit,cc-by-sa
+f963a52be1d65c440c34901df9a52f4b,UIX/UIX FILES/Data Files/Meshes/Bamboo/leg_Bamboo2.NIF,by redtreespirit,cc-by-sa
+792062e365c8747f314ca7940837e39a,UIX/UIX FILES/Data Files/Meshes/Bamboo/leg_Bamboo3.NIF,by redtreespirit,cc-by-sa
+d380a1ab7de7c8c742174935c5602ca7,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbLg1a.nif,by redtreespirit,cc-by-sa
+40ed8c5b0de5a353525d23f26b33df7b,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbLg1b.nif,by redtreespirit,cc-by-sa
+84f1c555d57fde897cfb6b0e7bc99c69,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbShootsA.nif,by redtreespirit,cc-by-sa
+7dd7339810615ea635c17496ee661663,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbShootsB.nif,by redtreespirit,cc-by-sa
+23d33ec0900a8b7e8ab5d312fa43d8b2,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbSm1a.nif,by redtreespirit,cc-by-sa
+77c43abbbac76ec7951f0ef7bbd003ad,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbSm1b.nif,by redtreespirit,cc-by-sa
+f642ac33e317ca494d3b0435d9527cf1,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbSm2a.nif,by redtreespirit,cc-by-sa
+1e9919d1709ca7d333ea6ecac2ade71c,UIX/UIX FILES/Data Files/Meshes/Bamboo/Rgn_BmbSm2b.nif,by redtreespirit,cc-by-sa
 9b8a569fce507e980bae6b99b8f28aaa,UIX/UIX FILES/Data Files/Meshes/bar_largefplace01.nif,"by barabus, retextured by Spyder",cc-by
 36bf019c69874fbfd1e5e9df94de4b75,UIX/UIX FILES/Data Files/Meshes/bar_largefplace02_wall_01.nif,"by barabus, retextured by Spyder",cc-by
 04414099756a783ba3d02312334fce69,UIX/UIX FILES/Data Files/Meshes/bar_largefplace02_wall_02.nif,"by barabus, retextured by Spyder",cc-by
@@ -3905,7 +3905,7 @@ dd4b2e52cc42c04ffbdce0affc2748b0,UIX/UIX FILES/Data Files/Meshes/TOEa/ex_new_wfa
 aa4d5f60276f8d2c6f63e2db9df270b4,UIX/UIX FILES/Data Files/Meshes/TOEa/ex_new_wfall_05.nif, ,
 c5e48d932b27e87eb3c803d88486c846,UIX/UIX FILES/Data Files/Meshes/TOEa/f/RAMDISCbureau.NIF, ,
 28438f4bd69296a2f84bb995c2f2f483,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/Baeotus baeotus.NIF, ,
-99c1dc7ef6a12fb13592f6f0d642318e,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/bat.NIF, ,
+99c1dc7ef6a12fb13592f6f0d642318e,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/bat.NIF,by Cait,cc-by
 e7ed2bb58487e7b16ceaecb389364b36,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/Batesia hypochlora.NIF, ,
 8ae9352a24672ddaf8e956ab807f783c,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/Callithea leprieuri.NIF, ,
 881f3eb9aef04439a345c019b7bc3df3,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/Charaxes_sma.NIF, ,
@@ -3914,7 +3914,7 @@ e7ed2bb58487e7b16ceaecb389364b36,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/Batesia
 54140fa563bf48d974c1b6750ff879a2,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/cr_basichousecat02.nif, ,
 c834b451d4dcb172b40adbf6db300195,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/cr_basichousecat03.nif, ,
 d6e6e5dd145fa231c75b4f6673a75238,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/cr_basichousecat04.nif, ,
-6fdb3f5dee94016754633248afe111cd,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/crow.NIF, ,
+6fdb3f5dee94016754633248afe111cd,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/crow.NIF,by Cait,cc-by
 6dba52f3f5bad5b289f789ca5c741aef,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/Cyprotus Blue.NIF, ,
 ca04f8e5e38d5236862b0c6a0563a01d,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/Eagle.NIF, ,
 8df7bc5a5b8942b40465ee72162b0584,UIX/UIX FILES/Data Files/Meshes/TOEa/fa/EasternTiger.NIF, ,
@@ -14174,7 +14174,7 @@ a45c51b7136d0345b769c52a4ed655c9,UIX/UIX FILES/Data Files/Textures/@_a_steel_hel
 5181c0a73387acc0c43eacceb3a29e89,UIX/UIX FILES/Data Files/Textures/@_a_steel_helmets2.dds, ,
 967c563b508cd9ab161a9d89d632a697,UIX/UIX FILES/Data Files/Textures/@_a_steel_helmets4.dds, ,
 bc637ddebdfa353c939b6b273f713e34,UIX/UIX FILES/Data Files/Textures/@_a_steel_sheld00_nm.dds, ,
-537ed93f799caa185a87fe0627563a40,UIX/UIX FILES/Data Files/Textures/@_a_steel_sheld00.dds, ,
+537ed93f799caa185a87fe0627563a40,UIX/UIX FILES/Data Files/Textures/@_a_steel_sheld00.dds,by Spyder,CC0
 89d93c3d57c5cd5639b061cce875f317,UIX/UIX FILES/Data Files/Textures/@_a_steel_sheld01.dds, ,
 aabc28902585c0b2c71fce32d31b19b4,UIX/UIX FILES/Data Files/Textures/@_a_steel_sheld02_nm.dds, ,
 f63837c35c7454defcd58828acf1ae5a,UIX/UIX FILES/Data Files/Textures/@_a_steel_sheld05_nm.dds, ,
@@ -14186,7 +14186,7 @@ fc9fcdc6f4ab05bd632fe2f0b91f1d0a,UIX/UIX FILES/Data Files/Textures/@_a_towershie
 bd19f5e90e2aa2fe121c2d81d4fd6e4c,UIX/UIX FILES/Data Files/Textures/@_a_towershield_daedric.dds, ,
 2e5b80862a69321e4c4988555ca2fee7,UIX/UIX FILES/Data Files/Textures/@_armsc01_nm.dds, ,
 21c7a1113f03f8b4fc2e90154624d9c1,UIX/UIX FILES/Data Files/Textures/@_armsc01_r.dds, ,
-1d7c3121ef310e1a3ba151f18e5681ee,UIX/UIX FILES/Data Files/Textures/@_armsc01.dds, ,
+1d7c3121ef310e1a3ba151f18e5681ee,UIX/UIX FILES/Data Files/Textures/@_armsc01.dds,by Spyder,CC0
 e803d7d90e4d59089d571a3dd6c0324d,UIX/UIX FILES/Data Files/Textures/@_armsc02.dds, ,
 6d949ca3e6263307335079c848f0ece7,UIX/UIX FILES/Data Files/Textures/@_armsc03.dds, ,
 5b6420573a1506facf9639b7166d8c91,UIX/UIX FILES/Data Files/Textures/@_armsc04.dds, ,
@@ -14462,10 +14462,10 @@ da2bce2b94b5b2557bf8c3c03b71d4a7,UIX/UIX FILES/Data Files/Textures/@_b_orochchip
 858e23ddefcb03969e23891075053022,UIX/UIX FILES/Data Files/Textures/@_b_orochchipw07_dt.dds, ,
 710aa5e8b070ae0181f604223e4506d7,UIX/UIX FILES/Data Files/Textures/@_b_orochchipw07.dds, ,
 b6bf230efb6c944d8941f019d3637ebe,UIX/UIX FILES/Data Files/Textures/@_b_orochchipw08.dds, ,
-547cea42aa312a3a5e0724db98326869,UIX/UIX FILES/Data Files/Textures/@_b_orochcir01_1_dt.dds, ,
-ca6b9272c32fd5c728ee57c410135c63,UIX/UIX FILES/Data Files/Textures/@_b_orochcir01_1_nm.dds, ,
-5eedb18e2f3175e99bf76bb1b8707ae8,UIX/UIX FILES/Data Files/Textures/@_b_orochcir01_1_nm2.dds, ,
-a8e594606d147aa8e50ffa77ee5b48e7,UIX/UIX FILES/Data Files/Textures/@_b_orochcir01_1.dds, ,
+547cea42aa312a3a5e0724db98326869,UIX/UIX FILES/Data Files/Textures/@_b_orochcir01_1_dt.dds,by Spyder,CC0
+ca6b9272c32fd5c728ee57c410135c63,UIX/UIX FILES/Data Files/Textures/@_b_orochcir01_1_nm.dds,by Spyder,CC0
+5eedb18e2f3175e99bf76bb1b8707ae8,UIX/UIX FILES/Data Files/Textures/@_b_orochcir01_1_nm2.dds,by Spyder,CC0
+a8e594606d147aa8e50ffa77ee5b48e7,UIX/UIX FILES/Data Files/Textures/@_b_orochcir01_1.dds,by Spyder,CC0
 9ce6fbe19fed62028de0da2d7d684806,UIX/UIX FILES/Data Files/Textures/@_b_orochcir02.dds, ,
 18f86280c300100dc8c68fc2cfb179da,UIX/UIX FILES/Data Files/Textures/@_b_orochcir03_dt.dds, ,
 aebcf07546c4e9e828a58bc293ed8e06,UIX/UIX FILES/Data Files/Textures/@_b_orochcir03_nm.dds, ,
@@ -14490,26 +14490,26 @@ bfba98080a1dcfd53ef557599f2af6bc,UIX/UIX FILES/Data Files/Textures/@_b_oroche01.
 dbfcaf6dd6f51e162056c31b882d2bf8,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm01_dt.dds, ,
 025a141106959cbec271eb241063eedc,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm01_nm.dds, ,
 8b45c0f23577236d57f1bdaa269ff6ea,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm01.dds, ,
-f32ec14a0444ad208503b8f85e993c76,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm02_dt.dds, ,
-4cd17e20a5a1a481937bbfe86b9885b2,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm02_nm.dds, ,
-d7f3a1390c38e85b79f6af5002c21054,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm02-1.dds, ,
-38d3f636776d4c9787d3af0a0f85b3c6,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm02.dds, ,
-d2874f81a329c00845f5e7163248c8e9,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm03_nm.dds, ,
-589ce9610ae42c4a1e6ac507fa59deb6,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm03.dds, ,
-e62026a52b2f971f3f5ca998d42e91bb,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04_dt.dds, ,
-9a709e20594821c9debc9772e9149f38,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04_nm.dds, ,
-78296e71f63aa02d84314f715b31ad19,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04-1_nm.dds, ,
-a1596cf1fa22e36d6defeb946531e811,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04-1.dds, ,
-ea6458c7f19b1e895f4997ff71ba3104,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04.dds, ,
-95db0aafadea14754b9de6b331250690,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm05_dt.dds, ,
-f052e936862e4505a9f29e38dd500b71,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm05_nm.dds, ,
-fc4933b260c3c3527d6caec1f0c1c352,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm05.dds, ,
-0ad13e2047661ee033007783003578e3,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm06_dt.dds, ,
-48aa7ecc25e44cd514eb1574e703ac44,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm06_nm.dds, ,
-7f3060961e50aaf36ed6fa2573baaed7,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm06.dds, ,
-5e34f7ae568a0fd247ef46c720d47958,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm07_dt.dds, ,
-a3ea5e705cb24b53560795aec780fffd,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm07_nm.dds, ,
-afd142fbcd79227d50da24f4d608293f,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm07.dds, ,
+f32ec14a0444ad208503b8f85e993c76,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm02_dt.dds,by Spyder,CC0
+4cd17e20a5a1a481937bbfe86b9885b2,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm02_nm.dds,by Spyder,CC0
+d7f3a1390c38e85b79f6af5002c21054,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm02-1.dds,by Spyder,CC0
+38d3f636776d4c9787d3af0a0f85b3c6,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm02.dds,by Spyder,CC0
+d2874f81a329c00845f5e7163248c8e9,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm03_nm.dds,by Spyder,CC0
+589ce9610ae42c4a1e6ac507fa59deb6,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm03.dds,by Spyder,CC0
+e62026a52b2f971f3f5ca998d42e91bb,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04_dt.dds,by Spyder,CC0
+9a709e20594821c9debc9772e9149f38,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04_nm.dds,by Spyder,CC0
+78296e71f63aa02d84314f715b31ad19,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04-1_nm.dds,by Spyder,CC0
+a1596cf1fa22e36d6defeb946531e811,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04-1.dds,by Spyder,CC0
+ea6458c7f19b1e895f4997ff71ba3104,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm04.dds,by Spyder,CC0
+95db0aafadea14754b9de6b331250690,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm05_dt.dds,by Spyder,CC0
+f052e936862e4505a9f29e38dd500b71,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm05_nm.dds,by Spyder,CC0
+fc4933b260c3c3527d6caec1f0c1c352,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm05.dds,by Spyder,CC0
+0ad13e2047661ee033007783003578e3,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm06_dt.dds,by Spyder,CC0
+48aa7ecc25e44cd514eb1574e703ac44,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm06_nm.dds,by Spyder,CC0
+7f3060961e50aaf36ed6fa2573baaed7,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm06.dds,by Spyder,CC0
+5e34f7ae568a0fd247ef46c720d47958,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm07_dt.dds,by Spyder,CC0
+a3ea5e705cb24b53560795aec780fffd,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm07_nm.dds,by Spyder,CC0
+afd142fbcd79227d50da24f4d608293f,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm07.dds,by Spyder,CC0
 b50bf3a8886e1857a7d8b6c0c086e137,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm08_sr_dt.dds, ,
 d429c4f34786f7ca41a4da3810bf2891,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm09_nm.dds, ,
 2204095d6f4309941d112994fc5aca54,UIX/UIX FILES/Data Files/Textures/@_b_orochhelm09.dds, ,
@@ -14588,9 +14588,9 @@ dd9f2a06a45e4b81d61af1ca2f64d56a,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0
 a7ff2c5c29aadc93b5ab04c61a3a7c77,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw2.dds, ,
 392e4391d3c677ad497e69c17a2f0300,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw4_nm.dds, ,
 f015a362bcb8763f71c32c9161999429,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw4.dds, ,
-66008cec8573f129eb132c26a2ca9ab6,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw5_dt.dds, ,
-d800fedfcca791e12c7669e3530a406f,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw5_nm.dds, ,
-6faa1db5c326b8d77be13d45f342ba33,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw5.dds, ,
+66008cec8573f129eb132c26a2ca9ab6,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw5_dt.dds,by Spyder,CC0
+d800fedfcca791e12c7669e3530a406f,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw5_nm.dds,by Spyder,CC0
+6faa1db5c326b8d77be13d45f342ba33,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw5.dds,by Spyder,CC0
 0d28e705668b48f444990282240f6d59,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw6_dt.dds, ,
 8cf3ee87432436a7bf1c309689b38005,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw6_nm.dds, ,
 ebe542e43ab1b8b02077a7f2acb1b704,UIX/UIX FILES/Data Files/Textures/@_bonearm01a0bw6.dds, ,
@@ -15187,7 +15187,7 @@ bf0a489b82458ee531c46d6f095cd742,UIX/UIX FILES/Data Files/Textures/@_impchain02.
 0612043189bfec557f561a08fd42fbab,UIX/UIX FILES/Data Files/Textures/@_impchain03lev_2nm.dds, ,
 fb5c8dcf0b731f8390c0acdfde7dff92,UIX/UIX FILES/Data Files/Textures/@_impchain03lev_dt.dds, ,
 e5e81ee896447611087bf0d689f0d4ed,UIX/UIX FILES/Data Files/Textures/@_impchain03lev_nm.dds, ,
-0871fe141318cd50b3e2b593df9e4372,UIX/UIX FILES/Data Files/Textures/@_impchain03lev.dds, ,
+0871fe141318cd50b3e2b593df9e4372,UIX/UIX FILES/Data Files/Textures/@_impchain03lev.dds,by Spyder,CC0
 5ac49dc921f4acc86cd55756a936eb43,UIX/UIX FILES/Data Files/Textures/@_impchain04_dt.dds, ,
 cf030eb9062cc25a690a0a2d4520a8be,UIX/UIX FILES/Data Files/Textures/@_impchain04_nm.dds, ,
 3eff1c8081af052874d1fb325a1f1f98,UIX/UIX FILES/Data Files/Textures/@_impchain04.dds, ,
@@ -16514,7 +16514,7 @@ d9fc7227c3da5299abf63c0326efe02a,UIX/UIX FILES/Data Files/Textures/bar_wornshutt
 80cb046fb3f6ac85501b31c7e28042f1,UIX/UIX FILES/Data Files/Textures/basestone01.dds,by Spyder,CC0
 5e509e3114ebad36612674364f97ce86,UIX/UIX FILES/Data Files/Textures/basestone02.dds,by Spyder,CC0
 366d7ec628c1e917b843002f73ffc131,UIX/UIX FILES/Data Files/Textures/basestone03.dds,by Spyder,CC0
-00a6b34248a4d33902560ced43af9635,UIX/UIX FILES/Data Files/Textures/bat.tga, ,
+00a6b34248a4d33902560ced43af9635,UIX/UIX FILES/Data Files/Textures/bat.tga,by Cait,cc-by
 38c5e8a0e80543e7bc66e55f98a77c27,UIX/UIX FILES/Data Files/Textures/bb_skinf_ba.dds,by Tom “Neuman” Oldani,cc-by-sa
 4eee412eeb305f145e2bf037599c5069,UIX/UIX FILES/Data Files/Textures/bb/bb_handf_br.dds,by Tom “Neuman” Oldani,cc-by-sa
 c6c01848079cb788221fcaf6c7254740,UIX/UIX FILES/Data Files/Textures/bb/bb_handf_de.dds,by Tom “Neuman” Oldani,cc-by-sa
@@ -17134,7 +17134,7 @@ de0fa391d59a74533afc6b045482aa94,UIX/UIX FILES/Data Files/Textures/CoalAnim01.dd
 c756142e9918b69fb85789fb2bd3e7e4,UIX/UIX FILES/Data Files/Textures/coffin01.dds, ,
 bea824f9977f72f07014bdccec6f4267,UIX/UIX FILES/Data Files/Textures/coffin02.dds, ,
 17a7a993e77d38d6b9812c5ef95c8088,UIX/UIX FILES/Data Files/Textures/com_open.dds, ,
-d8b4745b36b78938ba36a6ca1e37c859,UIX/UIX FILES/Data Files/Textures/crow.tga, ,
+d8b4745b36b78938ba36a6ca1e37c859,UIX/UIX FILES/Data Files/Textures/crow.tga,by Cait,cc-by
 65dda38d21b2dbdd159a5d7056ed63dd,UIX/UIX FILES/Data Files/Textures/curtain_cloth_01.dds,by Spyder,CC0
 9eb1ff530e5a62ad04e51b1dd5e528ca,UIX/UIX FILES/Data Files/Textures/curtain_cloth_02.dds,by Spyder,CC0
 060f53cb73ffe272b0e3a942b4a64f37,UIX/UIX FILES/Data Files/Textures/curtain_cloth_03_end.dds,by Spyder,CC0
@@ -17164,12 +17164,12 @@ f5f308e7fee6b355dcdf13902e08a70f,UIX/UIX FILES/Data Files/Textures/db_cat1.dds, 
 2d36e8c69e430eac4c0b52a3a3b1424c,UIX/UIX FILES/Data Files/Textures/db_cat3.dds, ,
 4396f81c0a886160884f05111757b582,UIX/UIX FILES/Data Files/Textures/db_cat4.dds, ,
 4ffccb5e9995d5feafe964e93961270f,UIX/UIX FILES/Data Files/Textures/db_catwhiskers.tga, ,
-a0ee7f599b435f0505db43883f051b47,UIX/UIX FILES/Data Files/Textures/db_ruins_grass.dds, ,
-957c8176450953b7a4f009faef633bb1,UIX/UIX FILES/Data Files/Textures/db_ruins_stone1.dds, ,
-0f768c37b5fb32324e7b5cfd377dda43,UIX/UIX FILES/Data Files/Textures/db_waterdrops.tga, ,
-14f98962f6dd26161bd52f4b8693ba27,UIX/UIX FILES/Data Files/Textures/db_wood_siding.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
-fc10b92aef3c84ea59454ec067da1aee,UIX/UIX FILES/Data Files/Textures/db/db_fern01.dds, ,
-634db8ebe6337a5ff0a5c0ce28c99bee,UIX/UIX FILES/Data Files/Textures/db/db_fern02.dds, ,
+a0ee7f599b435f0505db43883f051b47,UIX/UIX FILES/Data Files/Textures/db_ruins_grass.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+957c8176450953b7a4f009faef633bb1,UIX/UIX FILES/Data Files/Textures/db_ruins_stone1.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+0f768c37b5fb32324e7b5cfd377dda43,UIX/UIX FILES/Data Files/Textures/db_waterdrops.tga,"by Steve ""Dongle"" Deffeyes",cc-by
+14f98962f6dd26161bd52f4b8693ba27,UIX/UIX FILES/Data Files/Textures/db_wood_siding.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+fc10b92aef3c84ea59454ec067da1aee,UIX/UIX FILES/Data Files/Textures/db/db_fern01.dds,by Razhkul,cc-by
+634db8ebe6337a5ff0a5c0ce28c99bee,UIX/UIX FILES/Data Files/Textures/db/db_fern02.dds,by Razhkul,cc-by
 ef5baf4c1cb152549b0c480ce1202760,UIX/UIX FILES/Data Files/Textures/db/Thumbs.db, ,
 11d080ea63ba0aa5488a065d5c8f2c73,UIX/UIX FILES/Data Files/Textures/Dead_arm.dds, ,
 d08377da7cb4177051aec276dffabe29,UIX/UIX FILES/Data Files/Textures/deer01.dds, ,
@@ -17740,8 +17740,8 @@ d2f178c86a52648a75fcdeebe44a2d49,UIX/UIX FILES/Data Files/Textures/gemstone_pur.
 4b12b26aca88e19d38c67476cce894bf,UIX/UIX FILES/Data Files/Textures/gemstone_yellow.dds,by Star Boi,cc-by
 9b6625bc592250d9478a20d0f13cbe3b,UIX/UIX FILES/Data Files/Textures/Geonox_Grass.tga, ,
 b4830f147d671f8d27df584a82549181,UIX/UIX FILES/Data Files/Textures/Gguarskin hide.dds, ,
-69597b631573b5739f0cf26f8d87c808,UIX/UIX FILES/Data Files/Textures/ghost01.bmp, ,
-70a33ae7a70c052a496d76db315af692,UIX/UIX FILES/Data Files/Textures/ghost01Eyes.tga, ,
+69597b631573b5739f0cf26f8d87c808,UIX/UIX FILES/Data Files/Textures/ghost01.bmp,by Cait,cc-by
+70a33ae7a70c052a496d76db315af692,UIX/UIX FILES/Data Files/Textures/ghost01Eyes.tga,by Cait,cc-by
 593cf3dae030408a64cb05aa86f825df,UIX/UIX FILES/Data Files/Textures/glass01.dds,by Spyder,CC0
 64ddad12d63c7b7b488a53f9f8c98655,UIX/UIX FILES/Data Files/Textures/Gold Knife.dds,by Star Boi,cc-by
 269ca30fe86bbfbc04da69135b6327b6,UIX/UIX FILES/Data Files/Textures/gold01.dds,by Spyder,CC0
@@ -17758,7 +17758,7 @@ d15907466adb97fdf718b6e262ba8f53,UIX/UIX FILES/Data Files/Textures/gore_arm.dds,
 bad2afa20e20c0bb9641b9549be65db8,UIX/UIX FILES/Data Files/Textures/gore_splash2.dds,by Spyder,CC0
 dae8b3e5f01ed025fe1f38700263b90b,UIX/UIX FILES/Data Files/Textures/granite01.dds,by Spyder,CC0
 8ab20c2c79a48610585a02ebecfbb17a,UIX/UIX FILES/Data Files/Textures/granite02.dds,by Spyder,CC0
-736f8cc65f7fe64415b01960c22753b2,UIX/UIX FILES/Data Files/Textures/grass_wesma.tga, ,
+736f8cc65f7fe64415b01960c22753b2,UIX/UIX FILES/Data Files/Textures/grass_wesma.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 8a7ca893bc7f0af3f8a36a7b6617dd10,UIX/UIX FILES/Data Files/Textures/grass.tga, ,
 d812e5671f4f24129ad5fc128bfbcc50,UIX/UIX FILES/Data Files/Textures/Grassfern.tga,by Nomad,cc-by-sa
 b22211f5a9e0d897f3b9c1c68bc54ecb,UIX/UIX FILES/Data Files/Textures/Grate_01.dds,by Spyder,CC0
@@ -18367,9 +18367,9 @@ a6e205880ec70dcff31b71a5eb9de7b0,UIX/UIX FILES/Data Files/Textures/NBchest01.dds
 c7b605fb42784872fa149bb74a7677a9,UIX/UIX FILES/Data Files/Textures/NBcopper01.dds, ,
 7adb965c862f8516e929b5468b59df53,UIX/UIX FILES/Data Files/Textures/NBcork01.dds, ,
 83ccdf66e5f7de80afd5ef5dcd4b82a3,UIX/UIX FILES/Data Files/Textures/NBcrabmeat.dds, ,
-8d802971353e3aa230e338fe07acf56e,UIX/UIX FILES/Data Files/Textures/NBcrackedpottery.dds, ,
-d20abf9feebc66873195623641f6f599,UIX/UIX FILES/Data Files/Textures/NBcrackedpottery2.dds, ,
-d1bad1f46cd6841915a97c17b531b30a,UIX/UIX FILES/Data Files/Textures/NBcrackedpottery3.dds, ,
+8d802971353e3aa230e338fe07acf56e,UIX/UIX FILES/Data Files/Textures/NBcrackedpottery.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
+d20abf9feebc66873195623641f6f599,UIX/UIX FILES/Data Files/Textures/NBcrackedpottery2.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
+d1bad1f46cd6841915a97c17b531b30a,UIX/UIX FILES/Data Files/Textures/NBcrackedpottery3.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
 77129d23cdf7a50214c466817fefb2ed,UIX/UIX FILES/Data Files/Textures/NBdecor09.dds, ,
 aa26ad4074449c3e0d44bd79872fd423,UIX/UIX FILES/Data Files/Textures/NBEmerald02.dds, ,
 94244144937965ec32898fcb0ec47cf5,UIX/UIX FILES/Data Files/Textures/NBEmerald03.dds, ,
@@ -18520,7 +18520,7 @@ cfb91cc436e60228d90a191c25a9d331,UIX/UIX FILES/Data Files/Textures/PE_color_05_w
 0d8853e9a25623363bae3b7daa5865da,UIX/UIX FILES/Data Files/Textures/PE_color_06_wood.dds,by Spyder,CC0
 2c20aa8e59ca61731767db07104ae274,UIX/UIX FILES/Data Files/Textures/PE_color_06.dds,by Spyder,CC0
 7274aa9f54c16277143ba46036ac5f4b,UIX/UIX FILES/Data Files/Textures/PE_pallet.dds,by Spyder,CC0
-d46c1d3a797841385f07b0134a9926d5,UIX/UIX FILES/Data Files/Textures/pear01.tga,,
+d46c1d3a797841385f07b0134a9926d5,UIX/UIX FILES/Data Files/Textures/pear01.tga,"by Samantha ""Lady Eternity"" Thorpe",cc-by
 55ddd53fad246f9cf27b5a7998023bdd,UIX/UIX FILES/Data Files/Textures/Pentagb.dds,by Star Boi,cc-by
 000f21c926ed0c19a0252c54650ef3cf,UIX/UIX FILES/Data Files/Textures/pickaxe_1.dds,by Spyder,CC0
 9b7c5dfccc6abc0dc0de9edd58c9fb74,UIX/UIX FILES/Data Files/Textures/pickaxe_2.dds,by Spyder,CC0
@@ -18679,7 +18679,7 @@ f27d46846d826a663f0e6a221ffb7819,UIX/UIX FILES/Data Files/Textures/RMoonGAniB02.
 338fc8f66329d982afada342be99021b,UIX/UIX FILES/Data Files/Textures/RMoonGAniB08.dds,by Spyder,CC0
 ec4503bf148850aa91fce85972db9e0e,UIX/UIX FILES/Data Files/Textures/RMoonpart01.dds,by Spyder,CC0
 9128019b4c47405b94c6f53c31ad536f,UIX/UIX FILES/Data Files/Textures/RMoonpart02.dds,by Spyder,CC0
-bbee88fc335af4b18cf33be9f9fa25dd,UIX/UIX FILES/Data Files/Textures/rock1.dds,,
+bbee88fc335af4b18cf33be9f9fa25dd,UIX/UIX FILES/Data Files/Textures/rock1.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
 64b74c394d952069f90232d3aca5549e,UIX/UIX FILES/Data Files/Textures/rope01.dds,by Spyder,CC0
 64b74c394d952069f90232d3aca5549e,UIX/UIX FILES/Data Files/Textures/rope02.dds,by Spyder,CC0
 a6eda81279fbb4fc04c1530de7bae2f6,UIX/UIX FILES/Data Files/Textures/roughwall01.dds,by Spyder,CC0
@@ -18832,7 +18832,7 @@ bb24611bd645d5533ebdb1bbe05c7408,UIX/UIX FILES/Data Files/Textures/SmokeAnim04.d
 8774393fd1941be62e3af6f225989646,UIX/UIX FILES/Data Files/Textures/SmokeAnim06.dds, ,
 1467831bcca57cdd8d17eb99f79a5aff,UIX/UIX FILES/Data Files/Textures/SmokeAnim07.dds, ,
 b3783d13e6ef67570c05199705529650,UIX/UIX FILES/Data Files/Textures/SmokeAnim08.dds, ,
-f5db9d4752c951974378948d9d7e2ed8,UIX/UIX FILES/Data Files/Textures/softcheese.tga, ,
+f5db9d4752c951974378948d9d7e2ed8,UIX/UIX FILES/Data Files/Textures/softcheese.tga,"by Samantha ""Lady Eternity"" Thorpe",cc-by
 4cda9a0dadcb783927ab3008c744bb00,UIX/UIX FILES/Data Files/Textures/soulgemref1.dds, ,
 6f7b44de2f6395a8e3ecd3a0154735f6,UIX/UIX FILES/Data Files/Textures/spark01.dds,by Spyder,CC0
 ef504a4fd6b9e024ae06058468f9e06e,UIX/UIX FILES/Data Files/Textures/spider_try.tga, ,
@@ -19298,8 +19298,8 @@ e6c36b606dc523fa1fa093b611719436,UIX/UIX FILES/Data Files/Textures/TOE_alphatext
 fac34333026746e012f2820f49947f7b,UIX/UIX FILES/Data Files/Textures/TOE_alphatexture03.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 fb0f97647b11fe30798823c4ed6c7e77,UIX/UIX FILES/Data Files/Textures/TOE_alphatexture04.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 6b1d9581922a18f487d20f4a881e7a77,UIX/UIX FILES/Data Files/Textures/TOE_alphatexture05.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
-4b49515be5042de2e399688793a0467c,UIX/UIX FILES/Data Files/Textures/TOE_bigfernleaf.tga, ,
-50959133b7739645855078c8e20ec37a,UIX/UIX FILES/Data Files/Textures/TOE_cloth01.tga, ,
+4b49515be5042de2e399688793a0467c,UIX/UIX FILES/Data Files/Textures/TOE_bigfernleaf.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
+50959133b7739645855078c8e20ec37a,UIX/UIX FILES/Data Files/Textures/TOE_cloth01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 fe105c7d692f387c291cd90fb37e1cba,UIX/UIX FILES/Data Files/Textures/TOE_clover.dds, ,
 b24c3ed59180b1feec3e0e59e7b574b9,UIX/UIX FILES/Data Files/Textures/TOE_db_daisystem.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 736f8cc65f7fe64415b01960c22753b2,UIX/UIX FILES/Data Files/Textures/TOE_diddyfern001.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
@@ -19314,9 +19314,9 @@ e1e47e4f8023c2bc3e72d84aaa2ee454,UIX/UIX FILES/Data Files/Textures/TOE_fly01.tga
 81a7a5c31be36586b4b9896ae55ce0ee,UIX/UIX FILES/Data Files/Textures/TOE_fly03.tga, ,
 b698c02599e307f51ddcce5d264909ee,UIX/UIX FILES/Data Files/Textures/TOE_grass09.dds, ,
 cd6930d06ef640e9f6e561caa50335db,UIX/UIX FILES/Data Files/Textures/TOE_grassWalpha.tga, ,
-3f600644e6b682b60608ab414d819e94,UIX/UIX FILES/Data Files/Textures/TOE_holly01.tga, ,
+3f600644e6b682b60608ab414d819e94,UIX/UIX FILES/Data Files/Textures/TOE_holly01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 483882eb29944be0a011680f83b181f3,UIX/UIX FILES/Data Files/Textures/TOE_leaftex01.tga, ,
-5ac777d1999e9747fc5830529805641d,UIX/UIX FILES/Data Files/Textures/TOE_leaftex02.tga, ,
+5ac777d1999e9747fc5830529805641d,UIX/UIX FILES/Data Files/Textures/TOE_leaftex02.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 74875ddeecc6326d65988d1c0996c6f7,UIX/UIX FILES/Data Files/Textures/TOE_leaftex03.tga, ,
 a351c31a283994edaf9f78c243302b39,UIX/UIX FILES/Data Files/Textures/TOE_lilflower01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 feff7434c655fb31560c5e8224949694,UIX/UIX FILES/Data Files/Textures/TOE_lilflower02.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
@@ -19343,7 +19343,7 @@ c73bd6b018a3976927c0fe5dd99b5d0a,UIX/UIX FILES/Data Files/Textures/TOE_m/grassc_
 d40830f490eb080c8e6e4ee638066c32,UIX/UIX FILES/Data Files/Textures/TOE_m/TOE_mushroom1.dds, ,
 34a1bf90f2a7b1569f71c0276502741e,UIX/UIX FILES/Data Files/Textures/TOE_m/TOE_mushroom2.dds, ,
 d8063115e122ce3636a6e1ed3472713b,UIX/UIX FILES/Data Files/Textures/TOE_m/TOE_steel1.dds,by Spyder,cc0
-7558b3cf0bd7e247e62b68d997171702,UIX/UIX FILES/Data Files/Textures/TOE_m/TOE_wood1.dds, ,
+7558b3cf0bd7e247e62b68d997171702,UIX/UIX FILES/Data Files/Textures/TOE_m/TOE_wood1.dds,by Spyder,cc0
 df762198fd8a04120c44ea2f4f9d698c,UIX/UIX FILES/Data Files/Textures/TOE_m/TOE_woodaxe.dds, ,
 c278f3bf52705bfc9676ccfcfa29b3ac,UIX/UIX FILES/Data Files/Textures/TOE_mushroom01.tga, ,
 6e944ecd392753a5adb5dc4ae9af0e47,UIX/UIX FILES/Data Files/Textures/TOE_mushroom02.tga, ,
@@ -19354,7 +19354,7 @@ ebfd18f9c1f53fa504b57d7170eccc55,UIX/UIX FILES/Data Files/Textures/TOE_palmensta
 293c48d2dcbf2cff61c4fccfead8dba3,UIX/UIX FILES/Data Files/Textures/TOE_palmenstamm.tga,"by Patrik ""Vurt"" Andersson",cc-by-nc
 1432b66d8eb9ef0630c226ed6f51d134,UIX/UIX FILES/Data Files/Textures/TOE_palmleaf02.tga, ,
 83e8d210eb4d1779268f097f3538be0d,UIX/UIX FILES/Data Files/Textures/TOE_pilztex.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
-b1fa45dceeeb14e63627d253e62196fb,UIX/UIX FILES/Data Files/Textures/TOE_pine01.tga, ,
+b1fa45dceeeb14e63627d253e62196fb,UIX/UIX FILES/Data Files/Textures/TOE_pine01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 6ab1fd5e10e4d2d34d60518ae3faa1d4,UIX/UIX FILES/Data Files/Textures/TOE_pine04.tga, ,
 6a7b15518c543547d751b8139f0f3b38,UIX/UIX FILES/Data Files/Textures/TOE_plantexture01.tga, ,
 2e73a75269bdd5d29f5ccd4d75420219,UIX/UIX FILES/Data Files/Textures/TOE_plantexture02.tga, ,
@@ -19363,19 +19363,19 @@ afe4931469b6e3914a4ff8ef984e530a,UIX/UIX FILES/Data Files/Textures/TOE_reagalpha
 e1c33f7dbb8d4ca4bc78dc66a1ef39c9,UIX/UIX FILES/Data Files/Textures/TOE_reagalpha02.tga, ,
 721b697ea0ddd3dc3997ab72291ad028,UIX/UIX FILES/Data Files/Textures/TOE_reaspidersilk.dds, ,
 4bb3bb0fe8fd27042686ad55337213bf,UIX/UIX FILES/Data Files/Textures/TOE_reflexSky.dds, ,
-7382a21c049b961a4f58ccf35a897828,UIX/UIX FILES/Data Files/Textures/TOE_rock3_2.dds, ,
-a8a39947ab8ac942d172725762296268,UIX/UIX FILES/Data Files/Textures/TOE_roof01.tga, ,
-c9250806654b96482107587aff2ab535,UIX/UIX FILES/Data Files/Textures/TOE_roof02.dds, ,
-80085ec73cb07b06e37cf62db8a5eeb8,UIX/UIX FILES/Data Files/Textures/TOE_roseleaves.tga, ,
+7382a21c049b961a4f58ccf35a897828,UIX/UIX FILES/Data Files/Textures/TOE_rock3_2.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
+a8a39947ab8ac942d172725762296268,UIX/UIX FILES/Data Files/Textures/TOE_roof01.tga,"by Steve ""Dongle"" Deffeyes",cc-by
+c9250806654b96482107587aff2ab535,UIX/UIX FILES/Data Files/Textures/TOE_roof02.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+80085ec73cb07b06e37cf62db8a5eeb8,UIX/UIX FILES/Data Files/Textures/TOE_roseleaves.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 2de580edc1dc0dcb012f39bcad382b5f,UIX/UIX FILES/Data Files/Textures/TOE_sand_earth.dds, ,
 89708327ca6bafe3db932397a817078a,UIX/UIX FILES/Data Files/Textures/TOE_sand_gravel.dds, ,
 43706c177e1033ee52e7c636f3a38f18,UIX/UIX FILES/Data Files/Textures/TOE_sand02.dds, ,
 c79f807e71c2eb3fe5576e3c1204abc8,UIX/UIX FILES/Data Files/Textures/TOE_sand03.dds, ,
 8b48de1f5fd96aedabfa6bb4485bbc7a,UIX/UIX FILES/Data Files/Textures/TOE_seestern01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 7963910a020cd6a082358de934276f3c,UIX/UIX FILES/Data Files/Textures/TOE_Seestern02.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
-732189efc3c3e0e4c225f1c943276c02,UIX/UIX FILES/Data Files/Textures/TOE_shell01.tga, ,
+732189efc3c3e0e4c225f1c943276c02,UIX/UIX FILES/Data Files/Textures/TOE_shell01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 bae3940eec17c239729f39b0d93863e0,UIX/UIX FILES/Data Files/Textures/TOE_shell02.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
-a9f72bd3f07ad15b5c32a7a9864c6876,UIX/UIX FILES/Data Files/Textures/TOE_shipwreckflag01.tga, ,
+a9f72bd3f07ad15b5c32a7a9864c6876,UIX/UIX FILES/Data Files/Textures/TOE_shipwreckflag01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 701d7603124a665e68f60a4353f5ee60,UIX/UIX FILES/Data Files/Textures/TOE_shrinerock1.dds, ,
 e2fe4112ae107740956528e1218ce707,UIX/UIX FILES/Data Files/Textures/TOE_shrub01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 886af98ed7956e029a54c1e5f5863bdc,UIX/UIX FILES/Data Files/Textures/TOE_spiritleaves01.tga, ,
@@ -19385,7 +19385,7 @@ c964dfa34bc9a921d0ea3f53bb05a3a6,UIX/UIX FILES/Data Files/Textures/TOE_undergrow
 722cb253e5730d62f51306e3dda646df,UIX/UIX FILES/Data Files/Textures/TOE_wheat01.tga, ,
 523a01030a7c52593e9ca94b664885fa,UIX/UIX FILES/Data Files/Textures/TOE_wheat02.tga, ,
 bcf2f716a8fbc38de9a3763672f134a9,UIX/UIX FILES/Data Files/Textures/ToE_wood_fine_02.dds, ,
-f3e08457ce28ed2376ca365b1754d7ab,UIX/UIX FILES/Data Files/Textures/TOE_wood01.dds, ,
+f3e08457ce28ed2376ca365b1754d7ab,UIX/UIX FILES/Data Files/Textures/TOE_wood01.dds,by Spyder,cc0
 c7111d44d14a6cbe203c97deb22c42c1,UIX/UIX FILES/Data Files/Textures/TOE_zweige01.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 a190656083a94903dfb92c2c81714596,UIX/UIX FILES/Data Files/Textures/TOE-Deto_rune_blank.dds, ,
 2d51eb00430712bd6a13c1d30739b606,UIX/UIX FILES/Data Files/Textures/TOE-Deto_rune_compassion.dds, ,
@@ -19461,13 +19461,13 @@ d29ebec14acbef4e01bf850c515d62ee,UIX/UIX FILES/Data Files/Textures/TOEa/baal_cor
 61a4ac2458dac39f43b49e417d757548,UIX/UIX FILES/Data Files/Textures/TOEa/baal_cornleaf.dds, ,
 4fa5b4adc13b6cb5acaef71046426e20,UIX/UIX FILES/Data Files/Textures/TOEa/baal_cornstalk01_y.dds, ,
 63107fb23ee7194cd01c89df2160ae58,UIX/UIX FILES/Data Files/Textures/TOEa/baal_cornstalk01.dds, ,
-97036adc555aaa8b0ec69637e351baa4,UIX/UIX FILES/Data Files/Textures/TOEa/baal_tomatoleaf.dds, ,
-ddc6d8c9c272086596e195053d191708,UIX/UIX FILES/Data Files/Textures/TOEa/baal_tomatostem.dds, ,
+97036adc555aaa8b0ec69637e351baa4,UIX/UIX FILES/Data Files/Textures/TOEa/baal_tomatoleaf.dds,"by Samantha ""Lady Eternity"" Thorpe",cc-by
+ddc6d8c9c272086596e195053d191708,UIX/UIX FILES/Data Files/Textures/TOEa/baal_tomatostem.dds,"by Samantha ""Lady Eternity"" Thorpe",cc-by
 8a4b85501fedff9492f14c21600d5e85,UIX/UIX FILES/Data Files/Textures/TOEa/CyborgBlatt11.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 2f1fa5261f66fe47e4a39f7029988636,UIX/UIX FILES/Data Files/Textures/TOEa/CyborgBlatt12.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
-dab3f18403f6fa133985ee046364d7ff,UIX/UIX FILES/Data Files/Textures/TOEa/db_flora_grass02.tga, ,
-e73059599fe737d26c7a497272d54b01,UIX/UIX FILES/Data Files/Textures/TOEa/db_rubberplant_leaf.dds, ,
-d72a670acaab2ac1b9fb00651e82311d,UIX/UIX FILES/Data Files/Textures/TOEa/db_rubberplant_stem.dds, ,
+dab3f18403f6fa133985ee046364d7ff,UIX/UIX FILES/Data Files/Textures/TOEa/db_flora_grass02.tga,by Razhkul,cc-by
+e73059599fe737d26c7a497272d54b01,UIX/UIX FILES/Data Files/Textures/TOEa/db_rubberplant_leaf.dds,by Razhkul,cc-by
+d72a670acaab2ac1b9fb00651e82311d,UIX/UIX FILES/Data Files/Textures/TOEa/db_rubberplant_stem.dds,by Razhkul,cc-by
 baba2335dc0c6b68cc78f76c413e64e0,UIX/UIX FILES/Data Files/Textures/TOEa/Det_lavafall_01.dds, ,
 cefdb2afaff56af711bca2aafbcb0ec5,UIX/UIX FILES/Data Files/Textures/TOEa/Det_lavafall_02.dds, ,
 8a7ca893bc7f0af3f8a36a7b6617dd10,UIX/UIX FILES/Data Files/Textures/TOEa/grass.tga, ,
@@ -19483,7 +19483,7 @@ f85ec96d34787edf095a1d2611965968,UIX/UIX FILES/Data Files/Textures/TOEco_HotMeta
 e3157fd8aa78bfe7c97c31dc1f7b594a,UIX/UIX FILES/Data Files/Textures/TOEco_HotMetalGloA.dds, ,
 7cf81304eba538ec586f346feb8aae23,UIX/UIX FILES/Data Files/Textures/TOEco_HotMetalSurf.dds, ,
 01cb87bda72c302b5cc9c3cccbe21b3e,UIX/UIX FILES/Data Files/Textures/TOEco_iron_glow.dds, ,
-45f6ccd8c16503e96531136d3faec2b4,UIX/UIX FILES/Data Files/Textures/TOEco_iron.dds, ,
+45f6ccd8c16503e96531136d3faec2b4,UIX/UIX FILES/Data Files/Textures/TOEco_iron.dds,by Spyder,CC0
 d497af0e7c0fab107dbf6a28638241d2,UIX/UIX FILES/Data Files/Textures/TOEco_iron2.dds, ,
 4d84fd66f5087dd9ae661cb888427193,UIX/UIX FILES/Data Files/Textures/TOEco_ironOre.dds, ,
 129e790a02c55e7df49f445c93c0df73,UIX/UIX FILES/Data Files/Textures/TOEco_ironRef.dds, ,
@@ -19508,12 +19508,12 @@ b805677daca69e47c77bc37696180b5a,UIX/UIX FILES/Data Files/Textures/TOEdi_aperoof
 cc228ef5aa88208ab3239a2d7363ee6e,UIX/UIX FILES/Data Files/Textures/TOEdi_apeside.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
 b0e10b83723551f582d8c50d3175e1ef,UIX/UIX FILES/Data Files/Textures/TOEdi_oakle05.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
 d5cddb1129926a625831ed37562335a4,UIX/UIX FILES/Data Files/Textures/TOEdi_oakle06.tga,"by Eric ""N'Dib"" Henry",cc-by-nc
-cf6072a3b90f5bddd4bfbda64d9dd9ea,UIX/UIX FILES/Data Files/Textures/tomato_1.tga,,
+cf6072a3b90f5bddd4bfbda64d9dd9ea,UIX/UIX FILES/Data Files/Textures/tomato_1.tga,"by Samantha ""Lady Eternity"" Thorpe",cc-by
 bca7cec0eeeb48bf81b8d380f6ac1a36,UIX/UIX FILES/Data Files/Textures/TotEV_door.dds,by Spyder,cc0
 c8435314fd427fa750a3e68049d8af3e,UIX/UIX FILES/Data Files/Textures/TotEV_iron1.dds,by Spyder,cc0
 bf05e6514a40e5a0aa1d28a33f832c79,UIX/UIX FILES/Data Files/Textures/TotEV_marb1.dds,by Spyder,cc0
 e932535333effb6f8f081ec0710bb72c,UIX/UIX FILES/Data Files/Textures/TotEV_marb2.dds,by Spyder,cc0
-afe695b5479609427ee590825fb04df4,UIX/UIX FILES/Data Files/Textures/TotEV_orna1.dds, ,
+afe695b5479609427ee590825fb04df4,UIX/UIX FILES/Data Files/Textures/TotEV_orna1.dds,by Spyder,cc0
 07e855f18f803ad49f3b23c95288db18,UIX/UIX FILES/Data Files/Textures/TotEV_PAni01.dds, ,
 2ce1ae5ca029cf5fc1725f9646c8d319,UIX/UIX FILES/Data Files/Textures/TotEV_PAni02.dds, ,
 579e99c27cb61f95945e28a143d03f0e,UIX/UIX FILES/Data Files/Textures/TotEV_PAni03.dds, ,
@@ -19522,11 +19522,11 @@ afe695b5479609427ee590825fb04df4,UIX/UIX FILES/Data Files/Textures/TotEV_orna1.d
 774892eede0a2d2199f259485ac39885,UIX/UIX FILES/Data Files/Textures/TotEV_PAni06.dds, ,
 5471970d163985c32cf77231df4cca43,UIX/UIX FILES/Data Files/Textures/TotEV_PAni07.dds, ,
 11ea3154e49afb716c0b8cc16e078172,UIX/UIX FILES/Data Files/Textures/TotEV_PAni08.dds, ,
-777f7c8ff8860c7e3d3fd8e2c1c6cbf0,UIX/UIX FILES/Data Files/Textures/TotEV_ref1.dds, ,
+777f7c8ff8860c7e3d3fd8e2c1c6cbf0,UIX/UIX FILES/Data Files/Textures/TotEV_ref1.dds,by Spyder,cc0
 c6f5ce1d93763488aa8989bef252b290,UIX/UIX FILES/Data Files/Textures/TotEV_roof1.dds,by Spyder,cc0
 db5003a5b58741be1c554cf83e060654,UIX/UIX FILES/Data Files/Textures/TotEV_tow1.dds,by Spyder,cc0
-59ba54a1137d13ec755154c018389fc2,UIX/UIX FILES/Data Files/Textures/TotEV_wall1.dds, ,
-0d9926593bfd1da1de3b1445a37f416d,UIX/UIX FILES/Data Files/Textures/TotEV_win1.dds, ,
+59ba54a1137d13ec755154c018389fc2,UIX/UIX FILES/Data Files/Textures/TotEV_wall1.dds,by Spyder,cc0
+0d9926593bfd1da1de3b1445a37f416d,UIX/UIX FILES/Data Files/Textures/TotEV_win1.dds,by Spyder,cc0
 b1b8c7cb3424fb56b730258f57428d15,UIX/UIX FILES/Data Files/Textures/towerglass01.dds,by Spyder,cc0
 05f6f1ffb6c6529703cdc097bd5f6daa,UIX/UIX FILES/Data Files/Textures/TR_water00.ifl,by Star Boi,cc-by
 0c37727c083d1b58a140dd4580b74c26,UIX/UIX FILES/Data Files/Textures/TR_water00.tga,by Star Boi,cc-by
@@ -19664,9 +19664,9 @@ b7d8113205200324b47daf706d06edd3,UIX/UIX FILES/Data Files/Textures/Tx_imp_block_
 2f254b240521dbc914dd47cb3497a2f2,UIX/UIX FILES/Data Files/Textures/Tx_imp_block_03.dds, ,
 6898b65bd206f82d2768e79370cf1d72,UIX/UIX FILES/Data Files/Textures/Tx_imp_botfront_01.dds, ,
 9b46ab1a656c45c6ec860c0f084b491a,UIX/UIX FILES/Data Files/Textures/Tx_imp_botside_01.dds, ,
-6201348bf7b050bc1b72bc2fbc4597ad,UIX/UIX FILES/Data Files/Textures/Tx_imp_ceiling_01.dds, ,
-fe1654aa3ccb0ad6fc7cb7d0e8081048,UIX/UIX FILES/Data Files/Textures/Tx_imp_ceiling_strip_01.dds, ,
-ada1d916f90eb317e802f4bd31271860,UIX/UIX FILES/Data Files/Textures/Tx_imp_ceiling_strip_02.dds, ,
+6201348bf7b050bc1b72bc2fbc4597ad,UIX/UIX FILES/Data Files/Textures/Tx_imp_ceiling_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+fe1654aa3ccb0ad6fc7cb7d0e8081048,UIX/UIX FILES/Data Files/Textures/Tx_imp_ceiling_strip_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+ada1d916f90eb317e802f4bd31271860,UIX/UIX FILES/Data Files/Textures/Tx_imp_ceiling_strip_02.dds,"by Steve ""Dongle"" Deffeyes",cc-by
 afe218a3f23c6762dbc38ffc7802905d,UIX/UIX FILES/Data Files/Textures/Tx_imp_colthin_01.dds, ,
 8d88493edc66424befb6de63025e6559,UIX/UIX FILES/Data Files/Textures/Tx_imp_colthin_02.dds, ,
 3370dda2081bf590b6fd3f666a0a6fca,UIX/UIX FILES/Data Files/Textures/Tx_imp_colwide_01.dds, ,
@@ -19684,14 +19684,14 @@ b05ed54a8853bd8ee70ecf0a38ed366d,UIX/UIX FILES/Data Files/Textures/Tx_imp_step_0
 f08b576f8e5b3939272d7994df208a4d,UIX/UIX FILES/Data Files/Textures/Tx_imp_step_04.dds, ,
 32d5daaa06746278f98718772b455fee,UIX/UIX FILES/Data Files/Textures/Tx_imp_step_05.dds, ,
 62e1f13841f66e1ab7d6229d78d31bf0,UIX/UIX FILES/Data Files/Textures/Tx_imp_step_06.dds, ,
-cecc9defc21ad42f3b2c60860dba00f2,UIX/UIX FILES/Data Files/Textures/Tx_imp_stripdark_01.dds, ,
-cfd9db786e08ff723806a4d1cb1be8c1,UIX/UIX FILES/Data Files/Textures/Tx_imp_stripmed_01.dds, ,
+cecc9defc21ad42f3b2c60860dba00f2,UIX/UIX FILES/Data Files/Textures/Tx_imp_stripdark_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+cfd9db786e08ff723806a4d1cb1be8c1,UIX/UIX FILES/Data Files/Textures/Tx_imp_stripmed_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
 2c5de5b27461f8eefe9c8d41a7ec0c45,UIX/UIX FILES/Data Files/Textures/Tx_imp_topfront_01.dds, ,
 4a237522b646aa276d6742ab8e16ced2,UIX/UIX FILES/Data Files/Textures/Tx_imp_topside_01.dds, ,
-1dacf0c7a8aa92f77bfda62877cb95d7,UIX/UIX FILES/Data Files/Textures/Tx_imp_wall_01.dds, ,
-c21fda469a649dfea963aa43f3e017b0,UIX/UIX FILES/Data Files/Textures/Tx_imp_wall_02.dds, ,
-09d7733a035c135f40dbbf1bb7816cf3,UIX/UIX FILES/Data Files/Textures/Tx_imp_wall_03.dds, ,
-ebdf8ebc4160b94db4523ae2363f53bb,UIX/UIX FILES/Data Files/Textures/Tx_imp_walltop_01.dds, ,
+1dacf0c7a8aa92f77bfda62877cb95d7,UIX/UIX FILES/Data Files/Textures/Tx_imp_wall_01.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
+c21fda469a649dfea963aa43f3e017b0,UIX/UIX FILES/Data Files/Textures/Tx_imp_wall_02.dds,,
+09d7733a035c135f40dbbf1bb7816cf3,UIX/UIX FILES/Data Files/Textures/Tx_imp_wall_03.dds,,
+ebdf8ebc4160b94db4523ae2363f53bb,UIX/UIX FILES/Data Files/Textures/Tx_imp_walltop_01.dds,,
 150764ba72a58a91e7a88a553ee3f361,UIX/UIX FILES/Data Files/Textures/Tx_leaves_03.dds,by Nomad,cc-by-sa
 cb1524f28c269a9c6ad8e37a16192443,UIX/UIX FILES/Data Files/Textures/Tx_MA_rock04.dds, ,
 fef1fcf73ef8293e5eb58d731dcb63cd,UIX/UIX FILES/Data Files/Textures/Tx_MA_rock04A.dds, ,
@@ -19777,8 +19777,8 @@ c2752733cc0c1719f28f7dd1c5b39759,UIX/UIX FILES/Data Files/Textures/tx_planter_ba
 de97889b2602b9a866ca1b856b2189a5,UIX/UIX FILES/Data Files/Textures/tx_planter_trim.dds, ,
 c899188c606ccb9eb18072d3e7eb61e6,UIX/UIX FILES/Data Files/Textures/Tx_RM_rock_01.dds, ,
 1d6aa1ea2cd5b5ecae8e5305ce63e250,UIX/UIX FILES/Data Files/Textures/Tx_rock_grey_01.dds, ,
-ce5fea4932b421e73e17acdee17b2a28,UIX/UIX FILES/Data Files/Textures/Tx_rock_WG_01.dds, ,
-eccc446fba19784164809be6961ece77,UIX/UIX FILES/Data Files/Textures/Tx_rope_heavy.dds, ,
+ce5fea4932b421e73e17acdee17b2a28,UIX/UIX FILES/Data Files/Textures/Tx_rock_WG_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+eccc446fba19784164809be6961ece77,UIX/UIX FILES/Data Files/Textures/Tx_rope_heavy.dds,"by Steve ""Dongle"" Deffeyes",cc-by
 e9da5f2646ac88b312ef0e2e0f871b09,UIX/UIX FILES/Data Files/Textures/tx_saddle_bottom.dds, ,
 586ce3c9ec5ec22a6ed6d965d1628dac,UIX/UIX FILES/Data Files/Textures/tx_saddle_gaurd1.dds, ,
 d7d6362b6c24b35c7c37c2a5b40e53b7,UIX/UIX FILES/Data Files/Textures/tx_saddle_pack1.dds, ,
@@ -19825,12 +19825,12 @@ abcb5503e2911e8128d83badec513c11,UIX/UIX FILES/Data Files/Textures/Tx_thatch_01.
 440ea20cb8ff0cd1fdf405f3b6073566,UIX/UIX FILES/Data Files/Textures/TX_V_NEW_W_01.tga, ,
 109d91f81a9c9e1340b276555e8924ff,UIX/UIX FILES/Data Files/Textures/Tx_w_Silver_R.dds, ,
 bd3c33dee853edbfb173822ecfbc5b2b,UIX/UIX FILES/Data Files/Textures/TX_Wall_Stone_01_2.dds,by Spyder,cc0
-eb23f9c14f002b88d72b7c151fd5f076,UIX/UIX FILES/Data Files/Textures/TX_Wall_Stone_01.dds, ,
-bd3c33dee853edbfb173822ecfbc5b2b,UIX/UIX FILES/Data Files/Textures/TX_Wall_Stone_88.dds, ,
-ea52b8f1d0f200a606d7c3743b76085c,UIX/UIX FILES/Data Files/Textures/TX_Wall_StuccoStone_01.dds, ,
-7875d5b276f95f2504bd0367b551a402,UIX/UIX FILES/Data Files/Textures/TX_Wall_StuccoStone_E_02.dds, ,
-320f70ef0e513463aef80349241598fc,UIX/UIX FILES/Data Files/Textures/TX_Wall_StuccoStone_EL_01.dds, ,
-e119acd0a4773a73f355cc1deafc3f46,UIX/UIX FILES/Data Files/Textures/TX_Wall_StuccoStone_ER_01.dds, ,
+eb23f9c14f002b88d72b7c151fd5f076,UIX/UIX FILES/Data Files/Textures/TX_Wall_Stone_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+bd3c33dee853edbfb173822ecfbc5b2b,UIX/UIX FILES/Data Files/Textures/TX_Wall_Stone_88.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+ea52b8f1d0f200a606d7c3743b76085c,UIX/UIX FILES/Data Files/Textures/TX_Wall_StuccoStone_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+7875d5b276f95f2504bd0367b551a402,UIX/UIX FILES/Data Files/Textures/TX_Wall_StuccoStone_E_02.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+320f70ef0e513463aef80349241598fc,UIX/UIX FILES/Data Files/Textures/TX_Wall_StuccoStone_EL_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+e119acd0a4773a73f355cc1deafc3f46,UIX/UIX FILES/Data Files/Textures/TX_Wall_StuccoStone_ER_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
 2f3ffa53e1beec16b8f26e8a606e9570,UIX/UIX FILES/Data Files/Textures/tx_wood_6th_redtrim_01_alpha.dds, ,
 bbb4cc700aed8cb538bce72b542b466b,UIX/UIX FILES/Data Files/Textures/Tx_wood_barnacle_01.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
 ab638839d0d8a1329822c0b0ea780bfc,UIX/UIX FILES/Data Files/Textures/Tx_wood_barnacle_02.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
@@ -19838,16 +19838,16 @@ ab638839d0d8a1329822c0b0ea780bfc,UIX/UIX FILES/Data Files/Textures/Tx_wood_barna
 6379665d183889c3a8e9f15706ea9808,UIX/UIX FILES/Data Files/Textures/Tx_wood_brown_posts_03.dds,by Spyder,cc0
 cff163b519375462fcb42793c191cf19,UIX/UIX FILES/Data Files/Textures/Tx_wood_brown_posts_04.dds,by Spyder,cc0
 4f83b70cbf107e1b3ca35307be1d6fad,UIX/UIX FILES/Data Files/Textures/Tx_wood_brown_rings_01.dds,by Spyder,cc0
-b7d27ad30cf7375f4af9eed2ae4bc720,UIX/UIX FILES/Data Files/Textures/Tx_wood_brown_shelf.dds, ,
-0a64c53f81004052c2cddd519e91703b,UIX/UIX FILES/Data Files/Textures/Tx_wood_dock_rings.dds,"by Eric ""N'Dib"" Henry",cc-by-nc
-aace19536774357aeae9e5679821938c,UIX/UIX FILES/Data Files/Textures/Tx_wood_docks_01.dds, ,
-51feae03897be748c9b6f6c1e9d6d12e,UIX/UIX FILES/Data Files/Textures/Tx_wood_shack_door.dds, ,
-9890fd301e4e4c48ba1eb5fc5d6886c3,UIX/UIX FILES/Data Files/Textures/Tx_wood_siding_01.dds, ,
-b8cec56334a39b0f8cf1cbb744a414cb,UIX/UIX FILES/Data Files/Textures/Tx_wood_siding.dds, ,
-05b0450bee90780a30b2e4ff6e8c4749,UIX/UIX FILES/Data Files/Textures/Tx_wood_weathered_rings.dds, ,
-7958855a643ecd4346de1e83c73887f2,UIX/UIX FILES/Data Files/Textures/tx_wood_weathered10.dds, ,
-d9f06dc7a38227e6916ae997c7495d00,UIX/UIX FILES/Data Files/Textures/Tx_wood_wethered.dds, ,
-260eb7c361143504f1caa9af7b903a6b,UIX/UIX FILES/Data Files/Textures/Tx_wood_wornfloor_01.dds, ,
+b7d27ad30cf7375f4af9eed2ae4bc720,UIX/UIX FILES/Data Files/Textures/Tx_wood_brown_shelf.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+0a64c53f81004052c2cddd519e91703b,UIX/UIX FILES/Data Files/Textures/Tx_wood_dock_rings.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+aace19536774357aeae9e5679821938c,UIX/UIX FILES/Data Files/Textures/Tx_wood_docks_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+51feae03897be748c9b6f6c1e9d6d12e,UIX/UIX FILES/Data Files/Textures/Tx_wood_shack_door.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+9890fd301e4e4c48ba1eb5fc5d6886c3,UIX/UIX FILES/Data Files/Textures/Tx_wood_siding_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+b8cec56334a39b0f8cf1cbb744a414cb,UIX/UIX FILES/Data Files/Textures/Tx_wood_siding.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+05b0450bee90780a30b2e4ff6e8c4749,UIX/UIX FILES/Data Files/Textures/Tx_wood_weathered_rings.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+7958855a643ecd4346de1e83c73887f2,UIX/UIX FILES/Data Files/Textures/tx_wood_weathered10.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+d9f06dc7a38227e6916ae997c7495d00,UIX/UIX FILES/Data Files/Textures/Tx_wood_wethered.dds,"by Steve ""Dongle"" Deffeyes",cc-by
+260eb7c361143504f1caa9af7b903a6b,UIX/UIX FILES/Data Files/Textures/Tx_wood_wornfloor_01.dds,"by Steve ""Dongle"" Deffeyes",cc-by
 a51360801dd5dd863d18f211a9cc3eae,UIX/UIX FILES/Data Files/Textures/Txt.GTW Staff.bmp,by Star Boi,cc-by
 c6e1c0e59c1d07ef1e51c31156ad6f01,UIX/UIX FILES/Data Files/Textures/UltimaBat.bmp, ,
 7424780cecffbe38d005d2d439ee50df,UIX/UIX FILES/Data Files/Textures/v_ACcoral_alpha_blue.dds,"by Patrik ""Vurt"" Andersson",cc-by-nc

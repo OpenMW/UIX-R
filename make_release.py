@@ -164,6 +164,8 @@ def main():
                             break  # good to go, break
                         elif row_license == 'cc-by-nc':
                             break  # good to go, break
+                        elif row_license == 'cc-by-sa':
+                            break  # good to go, break
                         else:
                             print("\nWARNING: Non-CC license asset -> {0} ({1})\n".format(
                                 relative_asset_path, nifs))
